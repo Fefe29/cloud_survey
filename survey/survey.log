@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.141592653-2.6-1.40.22 (TeX Live 2022/dev/Debian) (preloaded format=pdflatex 2025.2.15)  29 MAR 2025 20:40
+This is pdfTeX, Version 3.141592653-2.6-1.40.22 (TeX Live 2022/dev/Debian) (preloaded format=pdflatex 2025.2.15)  29 MAR 2025 20:45
 entering extended mode
  restricted \write18 enabled.
  file:line:error style messages enabled.
@@ -247,12 +247,12 @@ File: IMG/10.png Graphic file (type png)
 Package pdftex.def Info: IMG/10.png  used on input line 180.
 (pdftex.def)             Requested size: 295.05711pt x 210.30092pt.
  [7 <./IMG/6.png>] [8 <./IMG/10.png>]
-Overfull \hbox (1.58798pt too wide) in paragraph at lines 197--198
+Overfull \hbox (1.58798pt too wide) in paragraph at lines 198--199
 []\T1/cmr/m/it/10 Example: \T1/cmr/m/n/10 Smart se-cu-rity cam-eras us-ing edge com-put-ing an-a-lyze video streams
  []
 
 
-Overfull \hbox (0.52347pt too wide) in paragraph at lines 205--206
+Overfull \hbox (0.52347pt too wide) in paragraph at lines 206--207
  \T1/cmr/bx/n/10 De-cen-tral-ized Data Pro-cess-ing[] \T1/cmr/m/n/10 Edge com-put-ing lever-ages de-cen-tral-ized data
  []
 
@@ -260,74 +260,71 @@ Overfull \hbox (0.52347pt too wide) in paragraph at lines 205--206
 <IMG/3.png, id=51, 608.2725pt x 233.87375pt>
 File: IMG/3.png Graphic file (type png)
 <use IMG/3.png>
-Package pdftex.def Info: IMG/3.png  used on input line 236.
+Package pdftex.def Info: IMG/3.png  used on input line 237.
 (pdftex.def)             Requested size: 347.12354pt x 133.46642pt.
-<IMG/1.png, id=52, 282.05376pt x 239.89626pt>
+ [10]
+<IMG/1.png, id=55, 282.05376pt x 239.89626pt>
 File: IMG/1.png Graphic file (type png)
 <use IMG/1.png>
-Package pdftex.def Info: IMG/1.png  used on input line 245.
+Package pdftex.def Info: IMG/1.png  used on input line 247.
 (pdftex.def)             Requested size: 260.34265pt x 221.44664pt.
- [10] [11 <./IMG/3.png>] [12 <./IMG/1.png>] [13] [14]
-<IMG/7.png, id=71, 400.49625pt x 289.58188pt>
+ [11 <./IMG/3.png>] [12 <./IMG/1.png>] [13] [14] [15]
+<IMG/7.png, id=74, 400.49625pt x 289.58188pt>
 File: IMG/7.png Graphic file (type png)
 <use IMG/7.png>
-Package pdftex.def Info: IMG/7.png  used on input line 338.
+Package pdftex.def Info: IMG/7.png  used on input line 341.
 (pdftex.def)             Requested size: 277.69987pt x 200.8059pt.
- [15 <./IMG/7.png>] [16]
-Overfull \hbox (5.45703pt too wide) in paragraph at lines 376--377
+ [16 <./IMG/7.png>] [17]
+Overfull \hbox (5.45703pt too wide) in paragraph at lines 379--380
 \T1/cmr/m/n/10 tribut-ing to im-proved pa-tient out-comes, op-ti-mized health-care de-liv-ery, and height-
  []
 
-[17]
-Underfull \vbox (badness 2181) has occurred while \output is active []
-
- [18]
-Overfull \hbox (1.76349pt too wide) in paragraph at lines 421--422
+[18] [19]
+Overfull \hbox (1.76349pt too wide) in paragraph at lines 424--425
 \T1/cmr/m/n/10 cial in-tel-li-gence and ma-chine learn-ing al-go-rithms tai-lored for resource-constrained
  []
 
-[19]
-Overfull \hbox (7.87311pt too wide) in paragraph at lines 448--449
+[20]
+Overfull \hbox (7.87311pt too wide) in paragraph at lines 451--452
 \T1/cmr/m/n/10 The con-ver-gence of edge com-put-ing, ar-ti-fi-cial in-tel-li-gence (AI), and fifth-generation
  []
 
 
-Overfull \hbox (0.23608pt too wide) in paragraph at lines 448--449
+Overfull \hbox (0.23608pt too wide) in paragraph at lines 451--452
 \T1/cmr/m/n/10 tency com-mu-ni-ca-tions, and sig-nif-i-cantly in-creased band-width, en-abling the emer-
  []
 
 
-Overfull \hbox (6.51233pt too wide) in paragraph at lines 448--449
+Overfull \hbox (6.51233pt too wide) in paragraph at lines 451--452
 \T1/cmr/m/n/10 gence of ad-vanced ap-pli-ca-tions such as real-time aug-mented re-al-ity, smart robotics,
  []
 
-[20]
-Overfull \hbox (6.69174pt too wide) in paragraph at lines 466--467
+[21]
+Overfull \hbox (6.69174pt too wide) in paragraph at lines 469--470
 \T1/cmr/m/n/10 by 5G con-nec-tiv-ity, sig-nif-i-cantly ad-vances robotic and au-toma-tion sys-tems. Robots
  []
 
-[21]
 <IMG/2.png, id=95, 291.0875pt x 232.36812pt>
 File: IMG/2.png Graphic file (type png)
 <use IMG/2.png>
-Package pdftex.def Info: IMG/2.png  used on input line 486.
+Package pdftex.def Info: IMG/2.png  used on input line 489.
 (pdftex.def)             Requested size: 277.69987pt x 221.69868pt.
- [22 <./IMG/2.png>] [23]
-Overfull \hbox (9.84485pt too wide) in paragraph at lines 535--536
+[22] [23 <./IMG/2.png>] [24]
+Overfull \hbox (9.84485pt too wide) in paragraph at lines 538--539
 \T1/cmr/m/n/10 works and stan-dard-ized ar-chi-tec-tures for seam-less cloud-edge col-lab-o-ra-tion. Emerg-
  []
 
-[24] [25] (./survey.aux) ) 
+[25] (./survey.aux) ) 
 Here is how much of TeX's memory you used:
  2091 strings out of 478287
  31710 string characters out of 5849289
- 332617 words of memory out of 5000000
+ 331617 words of memory out of 5000000
  20291 multiletter control sequences out of 15000+600000
  476758 words of font info for 39 fonts, out of 8000000 for 9000
  1141 hyphenation exceptions out of 8191
  55i,7n,62p,916b,255s stack positions out of 5000i,500n,10000p,200000b,80000s
 {/usr/share/texmf/fonts/enc/dvips/cm-super/cm-super-t1.enc}{/usr/share/texmf/fonts/enc/dvips/cm-super/cm-super-ts1.enc}</usr/share/texmf/fonts/type1/public/cm-super/sfbx0900.pfb></usr/share/texmf/fonts/type1/public/cm-super/sfbx1000.pfb></usr/share/texmf/fonts/type1/public/cm-super/sfbx1200.pfb></usr/share/texmf/fonts/type1/public/cm-super/sfbx1440.pfb></usr/share/texmf/fonts/type1/public/cm-super/sfrm0900.pfb></usr/share/texmf/fonts/type1/public/cm-super/sfrm1000.pfb></usr/share/texmf/fonts/type1/public/cm-super/sfti1000.pfb></usr/share/texmf/fonts/type1/public/cm-super/sftt0900.pfb>
-Output written on survey.pdf (25 pages, 1160116 bytes).
+Output written on survey.pdf (25 pages, 1160133 bytes).
 PDF statistics:
  149 PDF objects out of 1000 (max. 8388607)
  86 compressed objects within 1 object stream
