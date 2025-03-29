@@ -33,7 +33,7 @@ While traditional centralized cloud computing has transformed many aspects of da
 \subsubsection{Latency Issues in Centralized Clouds}
 Centralized cloud computing often suffers from significant latency due to the geographic distance between data sources (users or IoT devices) and centralized data centers. High latency is particularly detrimental for real-time applications such as autonomous vehicles, telemedicine, or augmented reality, where delays even in milliseconds can severely degrade service quality or safety.
 
-\textit{Potential Edge Computing Solution:} Edge computing addresses latency challenges by enabling local data processing and analytics. By reducing data transit distance and processing time, edge computing delivers ultra-low latency, essential for latency-sensitive applications discussed in subsequent sections.
+\noindent\textit{Potential Edge Computing Solution:} Edge computing addresses latency challenges by enabling local data processing and analytics. By reducing data transit distance and processing time, edge computing delivers ultra-low latency, essential for latency-sensitive applications discussed in subsequent sections.
 
 \subsubsection{Network Congestion and Bandwidth Constraints}
 
@@ -50,27 +50,27 @@ With the exponential growth of IoT devices and connected applications, centraliz
 
 
 
-\textit{Potential Edge Computing Solution:} Edge computing significantly reduces network load by pre-processing data locally at the network edge. By transmitting only critical or aggregated data to the central cloud, it optimizes bandwidth usage and alleviates network congestion, as will be demonstrated in detailed examples later.
+\noindent\textit{Potential Edge Computing Solution:} Edge computing significantly reduces network load by pre-processing data locally at the network edge. By transmitting only critical or aggregated data to the central cloud, it optimizes bandwidth usage and alleviates network congestion, as will be demonstrated in detailed examples later.
 
 \subsubsection{Data Security and Privacy Challenges}
 Centralized cloud computing inherently involves frequent data transmission across public networks and centralized storage, increasing exposure to security threats, unauthorized access, and data breaches. Additionally, centralized storage raises privacy concerns, especially in sensitive applications such as healthcare, finance, and personal data handling.
 
-\textit{Potential Edge Computing Solution:} Edge computing mitigates security and privacy concerns by enabling data to remain localized, minimizing data transit and limiting exposure to external threats. This local approach to data handling enhances compliance with stringent privacy regulations such as GDPR or HIPAA, a benefit detailed further in subsequent sections.
+\noindent\textit{Potential Edge Computing Solution:} Edge computing mitigates security and privacy concerns by enabling data to remain localized, minimizing data transit and limiting exposure to external threats. This local approach to data handling enhances compliance with stringent privacy regulations such as GDPR or HIPAA, a benefit detailed further in subsequent sections.
 
 \subsubsection{Scalability Limitations}
 Scalability in centralized cloud computing can become challenging, particularly with rapid growth in data volume and increasing numbers of connected devices. Scaling central infrastructures often involves high costs, complex infrastructure modifications, and extended deployment times.
 
-\textit{Potential Edge Computing Solution:} Edge computing's decentralized architecture significantly simplifies scalability. Adding new edge nodes or expanding local processing capacities can be done incrementally without disrupting existing operations or requiring extensive central cloud modifications. Future sections will provide concrete scalability examples from IoT and industrial scenarios.
+\noindent\textit{Potential Edge Computing Solution:} Edge computing's decentralized architecture significantly simplifies scalability. Adding new edge nodes or expanding local processing capacities can be done incrementally without disrupting existing operations or requiring extensive central cloud modifications. Future sections will provide concrete scalability examples from IoT and industrial scenarios.
 
 \subsubsection{Reliability and Single-Point-of-Failure Issues}
 Centralized cloud computing systems are vulnerable to single-point-of-failure issues, as network disruptions, server downtime, or cyber-attacks targeting centralized infrastructure can disrupt service availability across extensive regions or user bases.
 
-\textit{Potential Edge Computing Solution:} Edge computing provides inherent resilience due to its decentralized design. Local edge nodes maintain operational continuity even in the case of network disruptions or centralized system failures, ensuring continuous availability of critical services, as illustrated in sections related to smart cities and industrial use cases.
+\noindent\textit{Potential Edge Computing Solution:} Edge computing provides inherent resilience due to its decentralized design. Local edge nodes maintain operational continuity even in the case of network disruptions or centralized system failures, ensuring continuous availability of critical services, as illustrated in sections related to smart cities and industrial use cases.
 
 \subsubsection{Operational Costs and Energy Efficiency}
 Centralized cloud computing consumes significant energy for data transmission, processing, and cooling systems within large data centers, generating high operational costs and considerable environmental impacts.
 
-\textit{Potential Edge Computing Solution:} By significantly reducing the need for long-distance data transmission and allowing local, energy-efficient data processing, edge computing effectively lowers both operational costs and energy consumption. Detailed examples of cost and energy savings in industrial and IoT contexts will further illustrate these benefits.
+\noindent\textit{Potential Edge Computing Solution:} By significantly reducing the need for long-distance data transmission and allowing local, energy-efficient data processing, edge computing effectively lowers both operational costs and energy consumption. Detailed examples of cost and energy savings in industrial and IoT contexts will further illustrate these benefits.
 
 \subsection{Objectives of the Study}
 
@@ -118,13 +118,6 @@ Centralized cloud infrastructures consume significant energy for data transmissi
 \subsubsection{General Architecture Overview}
 The general architecture of edge computing typically consists of three main hierarchical layers designed to efficiently manage data generation, processing, and analysis tasks. These layers are interconnected and cooperate closely to ensure optimal performance and responsiveness.
 
-\begin{figure}[ht]
-    \centering
-    \includegraphics[width=0.85\textwidth]{IMG/6.png}
-    \caption{Edge computing reference architecture 3.0}
-    \label{fig:edge_reference_architecture}
-    \end{figure}
-
 
 \subsubsection{Edge Devices (Data Generation Layer)}
 Edge devices represent the initial stage in the architecture, composed mainly of endpoints such as IoT sensors, actuators, smartphones, surveillance cameras, drones, wearable devices, and autonomous vehicles. These devices continuously generate data through their embedded sensors and are capable of basic local data preprocessing or filtering tasks. Their primary functions include:
@@ -168,7 +161,16 @@ This integration ensures scalability, flexibility, and optimized resource alloca
 Communication within an edge computing architecture relies on a mix of wired and wireless protocols adapted to specific scenarios, including Ethernet, Wi-Fi, LTE, 5G, ZigBee, Bluetooth, and LoRa. Network communication is optimized for low latency, high reliability, and secure data exchange, ensuring efficient and seamless interoperability across all layers.
 
 \subsubsection{Illustration of Edge Computing Architecture}
-To clearly illustrate this architecture, a comprehensive diagram should include the three layers described above, clearly identifying devices, nodes, cloud integration, and typical data flows. A recommended diagram is the \textit{General architecture of edge computing} provided in the reference documents, visually highlighting the interactions between each component and layer.
+To clearly illustrate this architecture, here is a comprehensive diagram extraded from \textit{General architecture of edge computing}.
+
+\begin{figure}[ht]
+    \centering
+    \includegraphics[width=0.85\textwidth]{IMG/6.png}
+    \caption{Edge computing reference architecture 3.0}
+    \label{fig:edge_reference_architecture}
+    \end{figure}
+
+
 
 
 \section{Advantages and Challenges}
