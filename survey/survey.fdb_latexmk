@@ -1,7 +1,7 @@
 # Fdb version 3
-["pdflatex"] 1743277544 "/home/fefe/home/canada/cloud/survey/survey/survey.tex" "survey.pdf" "survey" 1743277546
+["pdflatex"] 1743279198 "/home/fefe/home/canada/cloud/survey/survey/survey.tex" "survey.pdf" "survey" 1743279200
   "/etc/texmf/web2c/texmf.cnf" 1730730097 475 c0e671620eb5563b2130f56340a5fde8 ""
-  "/home/fefe/home/canada/cloud/survey/survey/survey.tex" 1743277542 57539 31836e74e943df97a209957b876e3281 ""
+  "/home/fefe/home/canada/cloud/survey/survey/survey.tex" 1743279197 58007 a88c20a753e81b09949ac661b24fa48f ""
   "/usr/share/texlive/texmf-dist/fonts/map/fontname/texfonts.map" 1577235249 3524 cb3e574dea2d1052e39280babc910dc8 ""
   "/usr/share/texlive/texmf-dist/fonts/tfm/jknappen/ec/ecbx0900.tfm" 1136768653 3584 1a7de6c99457381c64abc1a7c545505f ""
   "/usr/share/texlive/texmf-dist/fonts/tfm/jknappen/ec/ecbx1000.tfm" 1136768653 3584 2d666ecf6d466d8b007246bc2f94d9da ""
@@ -55,8 +55,8 @@
   "IMG/6.png" 1743270660 196494 0fffd64c65ccfbe2a6d1cf11d78c440d ""
   "IMG/7.png" 1743270674 74774 d07e4cf7446146f87f376437536f9b86 ""
   "IMG/8.png" 1743270704 92945 3a12ad0f968d5f1cf98634c2e916b9a9 ""
-  "survey.aux" 1743277546 12909 b593ead0322c636568e77b6702eb66c1 "pdflatex"
-  "survey.tex" 1743277542 57539 31836e74e943df97a209957b876e3281 ""
+  "survey.aux" 1743279200 12909 3b5081573656c6c2e97df37de5b624ca "pdflatex"
+  "survey.tex" 1743279197 58007 a88c20a753e81b09949ac661b24fa48f ""
   (generated)
   "survey.aux"
   "survey.log"
