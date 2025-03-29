@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.141592653-2.6-1.40.22 (TeX Live 2022/dev/Debian) (preloaded format=pdflatex 2025.2.15)  29 MAR 2025 20:11
+This is pdfTeX, Version 3.141592653-2.6-1.40.22 (TeX Live 2022/dev/Debian) (preloaded format=pdflatex 2025.2.15)  29 MAR 2025 20:15
 entering extended mode
  restricted \write18 enabled.
  file:line:error style messages enabled.
@@ -245,15 +245,15 @@ Package pdftex.def Info: IMG/4.png  used on input line 150.
 <IMG/10.png, id=38, 359.84438pt x 256.45813pt>
 File: IMG/10.png Graphic file (type png)
 <use IMG/10.png>
-Package pdftex.def Info: IMG/10.png  used on input line 177.
+Package pdftex.def Info: IMG/10.png  used on input line 178.
 (pdftex.def)             Requested size: 295.05711pt x 210.30092pt.
  [7 <./IMG/4.png>]
-Overfull \hbox (1.58798pt too wide) in paragraph at lines 194--195
+Overfull \hbox (1.58798pt too wide) in paragraph at lines 195--196
 []\T1/cmr/m/it/10 Example: \T1/cmr/m/n/10 Smart se-cu-rity cam-eras us-ing edge com-put-ing an-a-lyze video streams
  []
 
 [8 <./IMG/10.png>]
-Overfull \hbox (0.52347pt too wide) in paragraph at lines 202--203
+Overfull \hbox (0.52347pt too wide) in paragraph at lines 203--204
  \T1/cmr/bx/n/10 De-cen-tral-ized Data Pro-cess-ing[] \T1/cmr/m/n/10 Edge com-put-ing lever-ages de-cen-tral-ized data
  []
 
@@ -261,21 +261,21 @@ Overfull \hbox (0.52347pt too wide) in paragraph at lines 202--203
 <IMG/3.png, id=51, 608.2725pt x 233.87375pt>
 File: IMG/3.png Graphic file (type png)
 <use IMG/3.png>
-Package pdftex.def Info: IMG/3.png  used on input line 233.
+Package pdftex.def Info: IMG/3.png  used on input line 234.
 (pdftex.def)             Requested size: 347.12354pt x 133.46642pt.
 <IMG/1.png, id=52, 282.05376pt x 239.89626pt>
 File: IMG/1.png Graphic file (type png)
 <use IMG/1.png>
-Package pdftex.def Info: IMG/1.png  used on input line 242.
+Package pdftex.def Info: IMG/1.png  used on input line 243.
 (pdftex.def)             Requested size: 260.34265pt x 221.44664pt.
  [10] [11 <./IMG/3.png>] [12 <./IMG/1.png>] [13] [14]
 <IMG/7.png, id=71, 400.49625pt x 289.58188pt>
 File: IMG/7.png Graphic file (type png)
 <use IMG/7.png>
-Package pdftex.def Info: IMG/7.png  used on input line 335.
+Package pdftex.def Info: IMG/7.png  used on input line 336.
 (pdftex.def)             Requested size: 277.69987pt x 200.8059pt.
  [15 <./IMG/7.png>] [16]
-Overfull \hbox (5.45703pt too wide) in paragraph at lines 373--374
+Overfull \hbox (5.45703pt too wide) in paragraph at lines 374--375
 \T1/cmr/m/n/10 tribut-ing to im-proved pa-tient out-comes, op-ti-mized health-care de-liv-ery, and height-
  []
 
@@ -283,27 +283,27 @@ Overfull \hbox (5.45703pt too wide) in paragraph at lines 373--374
 Underfull \vbox (badness 2181) has occurred while \output is active []
 
  [18]
-Overfull \hbox (1.76349pt too wide) in paragraph at lines 418--419
+Overfull \hbox (1.76349pt too wide) in paragraph at lines 419--420
 \T1/cmr/m/n/10 cial in-tel-li-gence and ma-chine learn-ing al-go-rithms tai-lored for resource-constrained
  []
 
 [19]
-Overfull \hbox (7.87311pt too wide) in paragraph at lines 445--446
+Overfull \hbox (7.87311pt too wide) in paragraph at lines 446--447
 \T1/cmr/m/n/10 The con-ver-gence of edge com-put-ing, ar-ti-fi-cial in-tel-li-gence (AI), and fifth-generation
  []
 
 
-Overfull \hbox (0.23608pt too wide) in paragraph at lines 445--446
+Overfull \hbox (0.23608pt too wide) in paragraph at lines 446--447
 \T1/cmr/m/n/10 tency com-mu-ni-ca-tions, and sig-nif-i-cantly in-creased band-width, en-abling the emer-
  []
 
 
-Overfull \hbox (6.51233pt too wide) in paragraph at lines 445--446
+Overfull \hbox (6.51233pt too wide) in paragraph at lines 446--447
 \T1/cmr/m/n/10 gence of ad-vanced ap-pli-ca-tions such as real-time aug-mented re-al-ity, smart robotics,
  []
 
 [20]
-Overfull \hbox (6.69174pt too wide) in paragraph at lines 463--464
+Overfull \hbox (6.69174pt too wide) in paragraph at lines 464--465
 \T1/cmr/m/n/10 by 5G con-nec-tiv-ity, sig-nif-i-cantly ad-vances robotic and au-toma-tion sys-tems. Robots
  []
 
@@ -311,10 +311,10 @@ Overfull \hbox (6.69174pt too wide) in paragraph at lines 463--464
 <IMG/2.png, id=95, 291.0875pt x 232.36812pt>
 File: IMG/2.png Graphic file (type png)
 <use IMG/2.png>
-Package pdftex.def Info: IMG/2.png  used on input line 483.
+Package pdftex.def Info: IMG/2.png  used on input line 484.
 (pdftex.def)             Requested size: 277.69987pt x 221.69868pt.
  [22 <./IMG/2.png>] [23]
-Overfull \hbox (9.84485pt too wide) in paragraph at lines 532--533
+Overfull \hbox (9.84485pt too wide) in paragraph at lines 533--534
 \T1/cmr/m/n/10 works and stan-dard-ized ar-chi-tec-tures for seam-less cloud-edge col-lab-o-ra-tion. Emerg-
  []
 
