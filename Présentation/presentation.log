@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.141592653-2.6-1.40.22 (TeX Live 2022/dev/Debian) (preloaded format=pdflatex 2025.2.15)  30 MAR 2025 19:44
+This is pdfTeX, Version 3.141592653-2.6-1.40.22 (TeX Live 2022/dev/Debian) (preloaded format=pdflatex 2025.2.15)  30 MAR 2025 20:00
 entering extended mode
  restricted \write18 enabled.
  file:line:error style messages enabled.
@@ -565,32 +565,34 @@ File: caption-beamer.sto 2020/08/22 v2.0 Adaption of the caption package to the 
 Package caption Info: hyperref package is loaded.
 Package caption Info: Hyperref support is turned off
 (caption)             because hyperref has stopped early.
+) (/usr/share/texlive/texmf-dist/tex/latex/placeins/placeins.sty
+Package: placeins 2005/04/18  v 2.2
 ) (/usr/share/texlive/texmf-dist/tex/latex/l3backend/l3backend-pdftex.def
 File: l3backend-pdftex.def 2022-01-12 L3 backend support: PDF output (pdfTeX)
 \l__color_backend_stack_int=\count340
 \l__pdf_internal_box=\box78
-) (./presentation.aux)
+)
+No file presentation.aux.
 \openout1 = `presentation.aux'.
 
-LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 18.
-LaTeX Font Info:    ... okay on input line 18.
-LaTeX Font Info:    Checking defaults for OMS/cmsy/m/n on input line 18.
-LaTeX Font Info:    ... okay on input line 18.
-LaTeX Font Info:    Checking defaults for OT1/cmr/m/n on input line 18.
-LaTeX Font Info:    ... okay on input line 18.
-LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 18.
-LaTeX Font Info:    ... okay on input line 18.
-LaTeX Font Info:    Checking defaults for TS1/cmr/m/n on input line 18.
-LaTeX Font Info:    ... okay on input line 18.
-LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 18.
-LaTeX Font Info:    ... okay on input line 18.
-LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 18.
-LaTeX Font Info:    ... okay on input line 18.
-LaTeX Font Info:    Checking defaults for PD1/pdf/m/n on input line 18.
-LaTeX Font Info:    ... okay on input line 18.
-LaTeX Font Info:    Checking defaults for PU/pdf/m/n on input line 18.
-LaTeX Font Info:    ... okay on input line 18.
-
+LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 19.
+LaTeX Font Info:    ... okay on input line 19.
+LaTeX Font Info:    Checking defaults for OMS/cmsy/m/n on input line 19.
+LaTeX Font Info:    ... okay on input line 19.
+LaTeX Font Info:    Checking defaults for OT1/cmr/m/n on input line 19.
+LaTeX Font Info:    ... okay on input line 19.
+LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 19.
+LaTeX Font Info:    ... okay on input line 19.
+LaTeX Font Info:    Checking defaults for TS1/cmr/m/n on input line 19.
+LaTeX Font Info:    ... okay on input line 19.
+LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 19.
+LaTeX Font Info:    ... okay on input line 19.
+LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 19.
+LaTeX Font Info:    ... okay on input line 19.
+LaTeX Font Info:    Checking defaults for PD1/pdf/m/n on input line 19.
+LaTeX Font Info:    ... okay on input line 19.
+LaTeX Font Info:    Checking defaults for PU/pdf/m/n on input line 19.
+LaTeX Font Info:    ... okay on input line 19.
 *geometry* driver: auto-detecting
 *geometry* detected driver: pdftex
 *geometry* verbose mode - [ preamble ] result:
@@ -644,7 +646,7 @@ Package epstopdf-base Info: Redefining graphics rule for `.eps' on input line 48
  (/usr/share/texlive/texmf-dist/tex/latex/latexconfig/epstopdf-sys.cfg
 File: epstopdf-sys.cfg 2010/07/13 v1.3 Configuration of (r)epstopdf for TeX Live
 ))
-Package hyperref Info: Link coloring OFF on input line 18.
+Package hyperref Info: Link coloring OFF on input line 19.
  (/usr/share/texlive/texmf-dist/tex/latex/hyperref/nameref.sty
 Package: nameref 2021-04-02 v2.47 Cross-referencing by name of section
  (/usr/share/texlive/texmf-dist/tex/latex/refcount/refcount.sty
@@ -654,66 +656,65 @@ Package: gettitlestring 2019/12/15 v1.6 Cleanup title references (HO)
 )
 \c@section@level=\count347
 )
-LaTeX Info: Redefining \ref on input line 18.
-LaTeX Info: Redefining \pageref on input line 18.
-LaTeX Info: Redefining \nameref on input line 18.
- (./presentation.out) (./presentation.out)
+LaTeX Info: Redefining \ref on input line 19.
+LaTeX Info: Redefining \pageref on input line 19.
+LaTeX Info: Redefining \nameref on input line 19.
 \@outlinefile=\write5
 \openout5 = `presentation.out'.
 
 LaTeX Font Info:    Overwriting symbol font `operators' in version `normal'
-(Font)                  OT1/cmr/m/n --> OT1/cmss/m/n on input line 18.
+(Font)                  OT1/cmr/m/n --> OT1/cmss/m/n on input line 19.
 LaTeX Font Info:    Overwriting symbol font `operators' in version `bold'
-(Font)                  OT1/cmr/bx/n --> OT1/cmss/b/n on input line 18.
+(Font)                  OT1/cmr/bx/n --> OT1/cmss/b/n on input line 19.
 \symnumbers=\mathgroup6
 \sympureletters=\mathgroup7
 LaTeX Font Info:    Overwriting math alphabet `\mathrm' in version `normal'
-(Font)                  OT1/cmss/m/n --> T1/cmr/m/n on input line 18.
-LaTeX Font Info:    Redeclaring math alphabet \mathbf on input line 18.
+(Font)                  OT1/cmss/m/n --> T1/cmr/m/n on input line 19.
+LaTeX Font Info:    Redeclaring math alphabet \mathbf on input line 19.
 LaTeX Font Info:    Overwriting math alphabet `\mathbf' in version `normal'
-(Font)                  OT1/cmr/bx/n --> T1/cmss/b/n on input line 18.
+(Font)                  OT1/cmr/bx/n --> T1/cmss/b/n on input line 19.
 LaTeX Font Info:    Overwriting math alphabet `\mathbf' in version `bold'
-(Font)                  OT1/cmr/bx/n --> T1/cmss/b/n on input line 18.
-LaTeX Font Info:    Redeclaring math alphabet \mathsf on input line 18.
+(Font)                  OT1/cmr/bx/n --> T1/cmss/b/n on input line 19.
+LaTeX Font Info:    Redeclaring math alphabet \mathsf on input line 19.
 LaTeX Font Info:    Overwriting math alphabet `\mathsf' in version `normal'
-(Font)                  OT1/cmss/m/n --> T1/cmss/m/n on input line 18.
+(Font)                  OT1/cmss/m/n --> T1/cmss/m/n on input line 19.
 LaTeX Font Info:    Overwriting math alphabet `\mathsf' in version `bold'
-(Font)                  OT1/cmss/bx/n --> T1/cmss/m/n on input line 18.
-LaTeX Font Info:    Redeclaring math alphabet \mathit on input line 18.
+(Font)                  OT1/cmss/bx/n --> T1/cmss/m/n on input line 19.
+LaTeX Font Info:    Redeclaring math alphabet \mathit on input line 19.
 LaTeX Font Info:    Overwriting math alphabet `\mathit' in version `normal'
-(Font)                  OT1/cmr/m/it --> T1/cmss/m/it on input line 18.
+(Font)                  OT1/cmr/m/it --> T1/cmss/m/it on input line 19.
 LaTeX Font Info:    Overwriting math alphabet `\mathit' in version `bold'
-(Font)                  OT1/cmr/bx/it --> T1/cmss/m/it on input line 18.
-LaTeX Font Info:    Redeclaring math alphabet \mathtt on input line 18.
+(Font)                  OT1/cmr/bx/it --> T1/cmss/m/it on input line 19.
+LaTeX Font Info:    Redeclaring math alphabet \mathtt on input line 19.
 LaTeX Font Info:    Overwriting math alphabet `\mathtt' in version `normal'
-(Font)                  OT1/cmtt/m/n --> T1/cmtt/m/n on input line 18.
+(Font)                  OT1/cmtt/m/n --> T1/cmtt/m/n on input line 19.
 LaTeX Font Info:    Overwriting math alphabet `\mathtt' in version `bold'
-(Font)                  OT1/cmtt/m/n --> T1/cmtt/m/n on input line 18.
+(Font)                  OT1/cmtt/m/n --> T1/cmtt/m/n on input line 19.
 LaTeX Font Info:    Overwriting symbol font `numbers' in version `bold'
-(Font)                  T1/cmss/m/n --> T1/cmss/b/n on input line 18.
+(Font)                  T1/cmss/m/n --> T1/cmss/b/n on input line 19.
 LaTeX Font Info:    Overwriting symbol font `pureletters' in version `bold'
-(Font)                  T1/cmss/m/it --> T1/cmss/b/it on input line 18.
+(Font)                  T1/cmss/m/it --> T1/cmss/b/it on input line 19.
 LaTeX Font Info:    Overwriting math alphabet `\mathrm' in version `bold'
-(Font)                  OT1/cmss/b/n --> T1/cmr/b/n on input line 18.
+(Font)                  OT1/cmss/b/n --> T1/cmr/b/n on input line 19.
 LaTeX Font Info:    Overwriting math alphabet `\mathbf' in version `bold'
-(Font)                  T1/cmss/b/n --> T1/cmss/b/n on input line 18.
+(Font)                  T1/cmss/b/n --> T1/cmss/b/n on input line 19.
 LaTeX Font Info:    Overwriting math alphabet `\mathsf' in version `bold'
-(Font)                  T1/cmss/m/n --> T1/cmss/b/n on input line 18.
+(Font)                  T1/cmss/m/n --> T1/cmss/b/n on input line 19.
 LaTeX Font Info:    Overwriting math alphabet `\mathit' in version `bold'
-(Font)                  T1/cmss/m/it --> T1/cmss/b/it on input line 18.
+(Font)                  T1/cmss/m/it --> T1/cmss/b/it on input line 19.
 LaTeX Font Info:    Overwriting math alphabet `\mathtt' in version `bold'
-(Font)                  T1/cmtt/m/n --> T1/cmtt/b/n on input line 18.
-LaTeX Font Info:    Redeclaring symbol font `pureletters' on input line 18.
+(Font)                  T1/cmtt/m/n --> T1/cmtt/b/n on input line 19.
+LaTeX Font Info:    Redeclaring symbol font `pureletters' on input line 19.
 LaTeX Font Info:    Encoding `T1' has changed to `OT1' for symbol font
-(Font)              `pureletters' in the math version `normal' on input line 18.
+(Font)              `pureletters' in the math version `normal' on input line 19.
 LaTeX Font Info:    Overwriting symbol font `pureletters' in version `normal'
-(Font)                  T1/cmss/m/it --> OT1/mathkerncmss/m/sl on input line 18.
+(Font)                  T1/cmss/m/it --> OT1/mathkerncmss/m/sl on input line 19.
 LaTeX Font Info:    Encoding `T1' has changed to `OT1' for symbol font
-(Font)              `pureletters' in the math version `bold' on input line 18.
+(Font)              `pureletters' in the math version `bold' on input line 19.
 LaTeX Font Info:    Overwriting symbol font `pureletters' in version `bold'
-(Font)                  T1/cmss/b/it --> OT1/mathkerncmss/m/sl on input line 18.
+(Font)                  T1/cmss/b/it --> OT1/mathkerncmss/m/sl on input line 19.
 LaTeX Font Info:    Overwriting symbol font `pureletters' in version `bold'
-(Font)                  OT1/mathkerncmss/m/sl --> OT1/mathkerncmss/bx/sl on input line 18.
+(Font)                  OT1/mathkerncmss/m/sl --> OT1/mathkerncmss/bx/sl on input line 19.
  (/usr/share/texlive/texmf-dist/tex/latex/translator/translator-basic-dictionary-English.dict
 Dictionary: translator-basic-dictionary, Language: English 
 ) (/usr/share/texlive/texmf-dist/tex/latex/translator/translator-bibliography-dictionary-English.dict
@@ -735,12 +736,12 @@ Package caption Info: End \AtBeginDocument code.
 
 \pgfpages@shipoutshipoutbox ...physicalpagesizes }
                                                   \endgroup 
-l.34 \end{frame}
+l.35 \end{frame}
                 pdfTeX warning (ext4): destination with the same identifier (name{page.1}) has been already used, duplicate ignored
 
 \pgfpages@shipoutshipoutbox ...physicalpagesizes }
                                                   \endgroup 
-l.34 \end{frame}
+l.35 \end{frame}
                 
 
 ] [3
@@ -749,19 +750,19 @@ pdfTeX warning (ext4): destination with the same identifier (name{Navigation2}) 
 
 \pgfpages@shipoutshipoutbox ...physicalpagesizes }
                                                   \endgroup 
-l.47 \end{frame}
+l.48 \end{frame}
                 pdfTeX warning (ext4): destination with the same identifier (name{page.2}) has been already used, duplicate ignored
 
 \pgfpages@shipoutshipoutbox ...physicalpagesizes }
                                                   \endgroup 
-l.47 \end{frame}
+l.48 \end{frame}
                 
 
 ]
 <IMG/6.png, id=110, 465.74pt x 355.82938pt>
 File: IMG/6.png Graphic file (type png)
 <use IMG/6.png>
-Package pdftex.def Info: IMG/6.png  used on input line 69.
+Package pdftex.def Info: IMG/6.png  used on input line 70.
 (pdftex.def)             Requested size: 171.14764pt x 130.75893pt.
  [4
 
@@ -769,19 +770,19 @@ pdfTeX warning (ext4): destination with the same identifier (name{Navigation3}) 
 
 \pgfpages@shipoutshipoutbox ...physicalpagesizes }
                                                   \endgroup 
-l.69 \end{frame}
+l.70 \end{frame}
                 pdfTeX warning (ext4): destination with the same identifier (name{page.3}) has been already used, duplicate ignored
 
 \pgfpages@shipoutshipoutbox ...physicalpagesizes }
                                                   \endgroup 
-l.69 \end{frame}
+l.70 \end{frame}
                 
 
 ]
 <IMG/12.png, id=138, 1539.7525pt x 831.105pt>
 File: IMG/12.png Graphic file (type png)
 <use IMG/12.png>
-Package pdftex.def Info: IMG/12.png  used on input line 84.
+Package pdftex.def Info: IMG/12.png  used on input line 85.
 (pdftex.def)             Requested size: 205.37926pt x 110.85008pt.
  [5
 
@@ -789,59 +790,71 @@ pdfTeX warning (ext4): destination with the same identifier (name{Navigation4}) 
 
 \pgfpages@shipoutshipoutbox ...physicalpagesizes }
                                                   \endgroup 
-l.84 \end{frame}
+l.85 \end{frame}
                 pdfTeX warning (ext4): destination with the same identifier (name{page.4}) has been already used, duplicate ignored
 
 \pgfpages@shipoutshipoutbox ...physicalpagesizes }
                                                   \endgroup 
-l.84 \end{frame}
+l.85 \end{frame}
                 
 
  <./IMG/6.png>]
 <IMG/13.png, id=168, 1443.3925pt x 1558.82375pt>
 File: IMG/13.png Graphic file (type png)
 <use IMG/13.png>
-Package pdftex.def Info: IMG/13.png  used on input line 99.
-(pdftex.def)             Requested size: 136.91603pt x 147.85193pt.
- [6
+Package pdftex.def Info: IMG/13.png  used on input line 103.
+(pdftex.def)             Requested size: 17.1158pt x 18.48149pt.
+
+/home/fefe/home/canada/cloud/survey/Présentation/presentation.tex:103: Undefined control sequence.
+\beamer@doifinframe ...rchitecture} \Floatbarrier 
+                                                  \note { Autonomous vehicle...
+l.103 \end{frame}
+                 
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+[6
 
 pdfTeX warning (ext4): destination with the same identifier (name{Navigation5}) has been already used, duplicate ignored
 
 \pgfpages@shipoutshipoutbox ...physicalpagesizes }
                                                   \endgroup 
-l.99 \end{frame}
-                pdfTeX warning (ext4): destination with the same identifier (name{page.5}) has been already used, duplicate ignored
+l.103 \end{frame}
+                 pdfTeX warning (ext4): destination with the same identifier (name{page.5}) has been already used, duplicate ignored
 
 \pgfpages@shipoutshipoutbox ...physicalpagesizes }
                                                   \endgroup 
-l.99 \end{frame}
-                
+l.103 \end{frame}
+                 
 
  <./IMG/12.png>]
 <IMG/14.png, id=195, 843.15pt x 421.575pt>
 File: IMG/14.png Graphic file (type png)
 <use IMG/14.png>
-Package pdftex.def Info: IMG/14.png  used on input line 114.
-(pdftex.def)             Requested size: 205.37926pt x 102.68532pt.
+Package pdftex.def Info: IMG/14.png  used on input line 128.
+(pdftex.def)             Requested size: 171.14764pt x 85.57431pt.
  [7
 
 pdfTeX warning (ext4): destination with the same identifier (name{Navigation6}) has been already used, duplicate ignored
 
 \pgfpages@shipoutshipoutbox ...physicalpagesizes }
                                                   \endgroup 
-l.114 \end{frame}
-                 pdfTeX warning (ext4): destination with the same identifier (name{page.6}) has been already used, duplicate ignored
+l.128   \end{frame}
+                   pdfTeX warning (ext4): destination with the same identifier (name{page.6}) has been already used, duplicate ignored
 
 \pgfpages@shipoutshipoutbox ...physicalpagesizes }
                                                   \endgroup 
-l.114 \end{frame}
-                 
+l.128   \end{frame}
+                   
 
  <./IMG/13.png (PNG copy)>]
 <IMG/15.jpg, id=222, 770.88pt x 433.62pt>
 File: IMG/15.jpg Graphic file (type jpg)
 <use IMG/15.jpg>
-Package pdftex.def Info: IMG/15.jpg  used on input line 129.
+Package pdftex.def Info: IMG/15.jpg  used on input line 146.
 (pdftex.def)             Requested size: 205.37926pt x 115.52408pt.
  [8
 
@@ -849,12 +862,12 @@ pdfTeX warning (ext4): destination with the same identifier (name{Navigation7}) 
 
 \pgfpages@shipoutshipoutbox ...physicalpagesizes }
                                                   \endgroup 
-l.129 \end{frame}
+l.146 \end{frame}
                  pdfTeX warning (ext4): destination with the same identifier (name{page.7}) has been already used, duplicate ignored
 
 \pgfpages@shipoutshipoutbox ...physicalpagesizes }
                                                   \endgroup 
-l.129 \end{frame}
+l.146 \end{frame}
                  
 
  <./IMG/14.png>] [9
@@ -863,12 +876,12 @@ pdfTeX warning (ext4): destination with the same identifier (name{Navigation8}) 
 
 \pgfpages@shipoutshipoutbox ...physicalpagesizes }
                                                   \endgroup 
-l.149 \end{frame}
+l.166 \end{frame}
                  pdfTeX warning (ext4): destination with the same identifier (name{page.8}) has been already used, duplicate ignored
 
 \pgfpages@shipoutshipoutbox ...physicalpagesizes }
                                                   \endgroup 
-l.149 \end{frame}
+l.166 \end{frame}
                  
 
  <./IMG/15.jpg>] [10
@@ -877,12 +890,12 @@ pdfTeX warning (ext4): destination with the same identifier (name{Navigation9}) 
 
 \pgfpages@shipoutshipoutbox ...physicalpagesizes }
                                                   \endgroup 
-l.161 \end{frame}
+l.178 \end{frame}
                  pdfTeX warning (ext4): destination with the same identifier (name{page.9}) has been already used, duplicate ignored
 
 \pgfpages@shipoutshipoutbox ...physicalpagesizes }
                                                   \endgroup 
-l.161 \end{frame}
+l.178 \end{frame}
                  
 
 ] [11
@@ -891,12 +904,12 @@ pdfTeX warning (ext4): destination with the same identifier (name{Navigation10})
 
 \pgfpages@shipoutshipoutbox ...physicalpagesizes }
                                                   \endgroup 
-l.175   \end{frame}
+l.192   \end{frame}
                    pdfTeX warning (ext4): destination with the same identifier (name{page.10}) has been already used, duplicate ignored
 
 \pgfpages@shipoutshipoutbox ...physicalpagesizes }
                                                   \endgroup 
-l.175   \end{frame}
+l.192   \end{frame}
                    
 
 ] [12
@@ -905,12 +918,12 @@ pdfTeX warning (ext4): destination with the same identifier (name{Navigation11})
 
 \pgfpages@shipoutshipoutbox ...physicalpagesizes }
                                                   \endgroup 
-l.187 \end{frame}
+l.204 \end{frame}
                  pdfTeX warning (ext4): destination with the same identifier (name{page.11}) has been already used, duplicate ignored
 
 \pgfpages@shipoutshipoutbox ...physicalpagesizes }
                                                   \endgroup 
-l.187 \end{frame}
+l.204 \end{frame}
                  
 
 ] [13
@@ -919,12 +932,12 @@ pdfTeX warning (ext4): destination with the same identifier (name{Navigation12})
 
 \pgfpages@shipoutshipoutbox ...physicalpagesizes }
                                                   \endgroup 
-l.196 \end{frame}
+l.213 \end{frame}
                  pdfTeX warning (ext4): destination with the same identifier (name{page.12}) has been already used, duplicate ignored
 
 \pgfpages@shipoutshipoutbox ...physicalpagesizes }
                                                   \endgroup 
-l.196 \end{frame}
+l.213 \end{frame}
                  
 
 ]
@@ -943,28 +956,34 @@ pdfTeX warning (ext4): destination with the same identifier (name{Navigation13})
 
 \pgfpages@shipoutshipoutbox ...physicalpagesizes }
                                                   \endgroup 
-l.198 \end{document}
+l.215 \end{document}
                     pdfTeX warning (ext4): destination with the same identifier (name{page.13}) has been already used, duplicate ignored
 
 \pgfpages@shipoutshipoutbox ...physicalpagesizes }
                                                   \endgroup 
-l.198 \end{document}
+l.215 \end{document}
                     
 
 ] (./presentation.aux)
-Package rerunfilecheck Info: File `presentation.out' has not changed.
-(rerunfilecheck)             Checksum: D41D8CD98F00B204E9800998ECF8427E;0.
+
+Package rerunfilecheck Warning: File `presentation.out' has changed.
+(rerunfilecheck)                Rerun to get outlines right
+(rerunfilecheck)                or use package `bookmark'.
+
+Package rerunfilecheck Info: Checksums for `presentation.out':
+(rerunfilecheck)             Before: <no file>
+(rerunfilecheck)             After:  D41D8CD98F00B204E9800998ECF8427E;0.
  ) 
 Here is how much of TeX's memory you used:
- 23518 strings out of 478287
- 460323 string characters out of 5849289
- 717369 words of memory out of 5000000
- 41224 multiletter control sequences out of 15000+600000
+ 23544 strings out of 478287
+ 461031 string characters out of 5849289
+ 717357 words of memory out of 5000000
+ 41252 multiletter control sequences out of 15000+600000
  477660 words of font info for 40 fonts, out of 8000000 for 9000
  1141 hyphenation exceptions out of 8191
- 128i,15n,122p,442b,603s stack positions out of 5000i,500n,10000p,200000b,80000s
+ 128i,15n,122p,442b,635s stack positions out of 5000i,500n,10000p,200000b,80000s
 {/usr/share/texmf/fonts/enc/dvips/cm-super/cm-super-t1.enc}</usr/share/texmf/fonts/type1/public/cm-super/sfsi1000.pfb></usr/share/texmf/fonts/type1/public/cm-super/sfsi1095.pfb></usr/share/texmf/fonts/type1/public/cm-super/sfss0600.pfb></usr/share/texmf/fonts/type1/public/cm-super/sfss0800.pfb></usr/share/texmf/fonts/type1/public/cm-super/sfss0900.pfb></usr/share/texmf/fonts/type1/public/cm-super/sfss1000.pfb></usr/share/texmf/fonts/type1/public/cm-super/sfss1095.pfb></usr/share/texmf/fonts/type1/public/cm-super/sfss1440.pfb></usr/share/texmf/fonts/type1/public/cm-super/sfsx1095.pfb>
-Output written on presentation.pdf (13 pages, 667728 bytes).
+Output written on presentation.pdf (13 pages, 668613 bytes).
 PDF statistics:
  449 PDF objects out of 1000 (max. 8388607)
  385 compressed objects within 4 object streams

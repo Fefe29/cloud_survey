@@ -1,7 +1,7 @@
 # Fdb version 3
-["pdflatex"] 1743356668 "/home/fefe/home/canada/cloud/survey/Présentation/presentation.tex" "presentation.pdf" "presentation" 1743356671
+["pdflatex"] 1743357657 "/home/fefe/home/canada/cloud/survey/Présentation/presentation.tex" "presentation.pdf" "presentation" 1743357657
   "/etc/texmf/web2c/texmf.cnf" 1730730097 475 c0e671620eb5563b2130f56340a5fde8 ""
-  "/home/fefe/home/canada/cloud/survey/Présentation/presentation.tex" 1743356664 7583 ae1215ed9841517580a4184c7c2fe086 ""
+  "/home/fefe/home/canada/cloud/survey/Présentation/presentation.tex" 1743357643 8098 596ab1229b8808b6e42f82d2147b040e ""
   "/usr/share/texlive/texmf-dist/fonts/map/fontname/texfonts.map" 1577235249 3524 cb3e574dea2d1052e39280babc910dc8 ""
   "/usr/share/texlive/texmf-dist/fonts/tfm/jknappen/ec/ecsi1000.tfm" 1136768653 3584 87c00098505ed1ab5849d7a05016cb73 ""
   "/usr/share/texlive/texmf-dist/fonts/tfm/jknappen/ec/ecsi1095.tfm" 1136768653 3584 1a0353d13d3e702865b76e3b1c321b5b ""
@@ -167,6 +167,7 @@
   "/usr/share/texlive/texmf-dist/tex/latex/pgf/utilities/pgfpages.sty" 1601326656 36299 1cc9347091c2fb861270e66da42a0a3e ""
   "/usr/share/texlive/texmf-dist/tex/latex/pgf/utilities/pgfrcs.sty" 1601326656 325 f9f16d12354225b7dd52a3321f085955 ""
   "/usr/share/texlive/texmf-dist/tex/latex/pgf/utilities/xxcolor.sty" 1601326656 2232 b9a67bccba736ed334b4b1a860a85c6f ""
+  "/usr/share/texlive/texmf-dist/tex/latex/placeins/placeins.sty" 1137110565 4087 636308456f60d2b31cbf97867db5708d ""
   "/usr/share/texlive/texmf-dist/tex/latex/refcount/refcount.sty" 1576624809 9878 9e94e8fa600d95f9c7731bb21dfb67a4 ""
   "/usr/share/texlive/texmf-dist/tex/latex/rerunfilecheck/rerunfilecheck.sty" 1575674187 9715 b051d5b493d9fe5f4bc251462d039e5f ""
   "/usr/share/texlive/texmf-dist/tex/latex/sansmathaccent/sansmathaccent.sty" 1580595219 4282 5d27280ace1239baaa4a225df16125ff ""
@@ -200,10 +201,10 @@
   "IMG/14.png" 1743355026 46384 6d9ed347eb8c4b671872421a6682d445 ""
   "IMG/15.jpg" 1743355026 75946 3b982882ffcd8ebdbe1b7bfada40ef82 ""
   "IMG/6.png" 1743356117 189266 7a582376f21278cade30a21c2a995ac4 ""
-  "presentation.aux" 1743356671 2633 b1c1488513916dea6fa5b42a0189c156 "pdflatex"
-  "presentation.nav" 1743356671 1388 7a70863fe1332a62556633d89757c3e2 "pdflatex"
-  "presentation.out" 1743356669 0 d41d8cd98f00b204e9800998ecf8427e "pdflatex"
-  "presentation.tex" 1743356664 7583 ae1215ed9841517580a4184c7c2fe086 ""
+  "presentation.aux" 1743357661 2633 b1c1488513916dea6fa5b42a0189c156 "pdflatex"
+  "presentation.nav" 1743357657 1388 7a70863fe1332a62556633d89757c3e2 "pdflatex"
+  "presentation.out" 1743357659 0 d41d8cd98f00b204e9800998ecf8427e "pdflatex"
+  "presentation.tex" 1743357643 8098 596ab1229b8808b6e42f82d2147b040e ""
   (generated)
   "presentation.aux"
   "presentation.log"

@@ -9,6 +9,7 @@
 \usepackage{hyperref}
 \usepackage[T1]{fontenc}
 \usepackage{caption}
+\usepackage{placeins} % Required for \Floatbarrier
 
 \title{Edge Computing: A Decentralized Evolution of the Cloud}
 \author{Galiléa LE MOULLEC (Mun ID: 202415993) \and Félicien MOQUET (Mun ID: 202415994)}
@@ -90,28 +91,42 @@
     \item Requires instant decision-making (e.g. braking)
     \item Edge computing enables safety-critical operations
   \end{itemize}
-  \vspace{0.5cm}
+  \vspace{0.2cm}
   \centering
-  \includegraphics[width=0.4\linewidth]{IMG/13.png} % Optional
+  \includegraphics[width=0.05\linewidth]{IMG/13.png} % Optional
+  \vspace{0.2cm}
+  \small \textit{Figure 2: Smart homes architecture}
+  \Floatbarrier
   \note{
     Autonomous vehicles need to process data within milliseconds. Edge computing allows cars to detect obstacles and make driving decisions instantly, which is essential for safety.
   }
 \end{frame}
 
-%--- Slide 6: Use Case - Smart Cities ---
 \begin{frame}{Use Case: Smart Cities}
-  \begin{itemize}
-    \item Real-time traffic management
-    \item Public safety and surveillance
-    \item Energy optimization and environmental monitoring
-  \end{itemize}
-  \vspace{0.5cm}
-  \centering
-  \includegraphics[width=0.6\linewidth]{IMG/14.png} % Optional
-  \note{
-    Edge computing enables cities to be smarter and more efficient. Local processing in traffic lights and surveillance systems improves responsiveness and reduces network dependency.
-  }
-\end{frame}
+    \begin{columns}[t]  % [t] pour aligner en haut
+      % Colonne gauche : texte
+      \begin{column}{0.5\textwidth}
+        \begin{itemize}
+          \item Real-time traffic management
+          \item Public safety and surveillance
+          \item Energy optimization and environmental monitoring
+        \end{itemize}
+      \end{column}
+  
+      % Colonne droite : image
+      \begin{column}{0.5\textwidth}
+        \includegraphics[width=\linewidth]{IMG/14.png}
+        \vspace{0.2cm}
+  
+        \small \textit{Figure 4: Smart cities architecture}
+      \end{column}
+    \end{columns}
+  
+    \note{
+      Edge computing enables cities to be smarter and more efficient. Local processing in traffic lights and surveillance systems improves responsiveness and reduces network dependency.
+    }
+  \end{frame}
+  
 
 %--- Slide 7: Use Case - Healthcare ---
 \begin{frame}{Use Case: Healthcare and Telemedicine}
@@ -123,6 +138,8 @@
   \vspace{0.5cm}
   \centering
   \includegraphics[width=0.6\linewidth]{IMG/15.jpg} % Optional
+  \vspace{0.2cm}
+  \small \textit{Figure 4: Edge computing reference architecture}
   \note{
     Healthcare systems use edge computing for real-time monitoring and diagnostics. Patient data stays local, enhancing privacy and compliance with health data regulations.
   }
