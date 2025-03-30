@@ -27,51 +27,7 @@ Edge computing has emerged as a vital technology, complementing traditional clou
 \subsection{Definition}
 According to the Edge Computing Consortium (ECC), edge computing is a distributed computing paradigm that integrates networking, computing, storage, and application resources near data sources to provide intelligent services with minimal delay. By processing and storing data closer to its origin, edge computing minimizes latency, optimizes bandwidth usage, and enhances system responsiveness.
 
-\subsection{Importance for Cloud Computing}
 
-While traditional centralized cloud computing has transformed many aspects of data processing, it faces several critical limitations that hinder its applicability to certain real-time and data-intensive scenarios. Edge computing emerges as a complementary solution addressing these fundamental cloud challenges by processing data closer to its origin, thus significantly enhancing cloud computing capabilities and broadening its application domain.
-
-\subsubsection{Latency Issues in Centralized Clouds}
-Centralized cloud computing often suffers from significant latency due to the geographic distance between data sources (users or IoT devices) and centralized data centers. High latency is particularly detrimental for real-time applications such as autonomous vehicles, telemedicine, or augmented reality, where delays even in milliseconds can severely degrade service quality or safety.
-
-\noindent\textit{Potential Edge Computing Solution:} Edge computing addresses latency challenges by enabling local data processing and analytics. By reducing data transit distance and processing time, edge computing delivers ultra-low latency, essential for latency-sensitive applications discussed in subsequent sections.
-
-\subsubsection{Network Congestion and Bandwidth Constraints}
-
-\begin{figure}[h!]
-    \centering
-    \includegraphics[width=0.75\textwidth]{IMG/8.png}
-    \caption{Annual monthly average forecast of global internet traffic (EB/month)}
-    \label{fig:internet_traffic}
-    \end{figure}   
-\FloatBarrier % Correct capitalization for the command
-
-With the exponential growth of IoT devices and connected applications, centralized clouds increasingly face network congestion and limited bandwidth availability. Constantly transferring massive data volumes to central data centers strains network infrastructure, increasing costs, and causing potential service degradation or interruptions.
-
-
-
-
-\noindent\textit{Potential Edge Computing Solution:} Edge computing significantly reduces network load by pre-processing data locally at the network edge. By transmitting only critical or aggregated data to the central cloud, it optimizes bandwidth usage and alleviates network congestion, as will be demonstrated in detailed examples later.
-
-\subsubsection{Data Security and Privacy Challenges}
-Centralized cloud computing inherently involves frequent data transmission across public networks and centralized storage, increasing exposure to security threats, unauthorized access, and data breaches. Additionally, centralized storage raises privacy concerns, especially in sensitive applications such as healthcare, finance, and personal data handling.
-
-\noindent\textit{Potential Edge Computing Solution:} Edge computing mitigates security and privacy concerns by enabling data to remain localized, minimizing data transit and limiting exposure to external threats. This local approach to data handling enhances compliance with stringent privacy regulations such as GDPR or HIPAA, a benefit detailed further in subsequent sections.
-
-\subsubsection{Scalability Limitations}
-Scalability in centralized cloud computing can become challenging, particularly with rapid growth in data volume and increasing numbers of connected devices. Scaling central infrastructures often involves high costs, complex infrastructure modifications, and extended deployment times.
-
-\noindent\textit{Potential Edge Computing Solution:} Edge computing's decentralized architecture significantly simplifies scalability. Adding new edge nodes or expanding local processing capacities can be done incrementally without disrupting existing operations or requiring extensive central cloud modifications. Future sections will provide concrete scalability examples from IoT and industrial scenarios.
-
-\subsubsection{Reliability and Single-Point-of-Failure Issues}
-Centralized cloud computing systems are vulnerable to single-point-of-failure issues, as network disruptions, server downtime, or cyber-attacks targeting centralized infrastructure can disrupt service availability across extensive regions or user bases.
-
-\noindent\textit{Potential Edge Computing Solution:} Edge computing provides inherent resilience due to its decentralized design. Local edge nodes maintain operational continuity even in the case of network disruptions or centralized system failures, ensuring continuous availability of critical services, as illustrated in sections related to smart cities and industrial use cases.
-
-\subsubsection{Operational Costs and Energy Efficiency}
-Centralized cloud computing consumes significant energy for data transmission, processing, and cooling systems within large data centers, generating high operational costs and considerable environmental impacts.
-
-\noindent\textit{Potential Edge Computing Solution:} By significantly reducing the need for long-distance data transmission and allowing local, energy-efficient data processing, edge computing effectively lowers both operational costs and energy consumption. Detailed examples of cost and energy savings in industrial and IoT contexts will further illustrate these benefits.
 
 \subsection{Objectives of the Study}
 
@@ -170,9 +126,7 @@ To clearly illustrate this architecture, here is a comprehensive diagram extrade
     \end{figure}
 \FloatBarrier
 
-
-
-\section{Advantages and Challenges}
+\section{Benefits for cloud computing and Challenges}
 
 \begin{figure}[h!]
     \centering
@@ -182,29 +136,52 @@ To clearly illustrate this architecture, here is a comprehensive diagram extrade
     \end{figure}
 \FloatBarrier
 
-\subsection{Advantages}
+\subsection{Limitations of Cloud Computing and the Advantages of Edge-Based Solutions}
 
-As previously discussed, edge computing offers significant benefits such as reduced latency, optimized bandwidth, and improved system responsiveness. This section reiterates and further illustrates these advantages with practical examples.
+Although traditional centralized cloud computing has revolutionized data processing and storage, it faces several critical limitations when applied to latency-sensitive, data-intensive, or privacy-critical scenarios. These inherent weaknesses hinder its performance in emerging domains such as autonomous systems, telemedicine, and large-scale IoT deployments. Edge computing emerges as a powerful complementary paradigm that directly addresses these challenges by relocating processing capabilities closer to the data source.
 
-\subsubsection{Latency Reduction}
-One of the primary benefits of edge computing is significant latency reduction. By processing data locally at or near the source, edge computing substantially decreases the time taken for data transmission and processing compared to centralized cloud models. This is crucial for real-time applications where even minor delays can lead to operational failures.
+\subsubsection{Latency and Responsiveness}
+Cloud computing typically introduces significant latency due to the physical distance between end-user devices and remote data centers. This delay is particularly detrimental for real-time applications requiring instantaneous decision-making, such as autonomous vehicles, augmented reality, and emergency response systems.
 
-\noindent\textit{Example:} Autonomous driving technologies require immediate processing of data from sensors and cameras. Edge computing enables instantaneous obstacle detection and decision-making within milliseconds, thus significantly enhancing vehicle safety.
+\noindent\textit{Edge Advantage:} By processing data locally or near the point of generation, edge computing drastically reduces round-trip time, enabling ultra-low latency responses. For instance, in autonomous driving, edge computing allows immediate obstacle recognition and reaction without relying on a remote server.
 
-\subsubsection{Bandwidth Optimization}
-Bandwidth consumption is a critical issue in centralized computing architectures, especially with the growing amount of data produced by IoT devices. Edge computing effectively optimizes bandwidth usage by processing data locally, reducing the quantity of data transmitted over the network, thereby minimizing congestion and lowering operational costs.
+\subsubsection{Bandwidth Constraints and Network Congestion}
 
-\noindent\textit{Example:} Smart security cameras using edge computing analyze video streams locally and only send alerts or brief video clips to central servers. This approach drastically reduces network traffic, with typical bandwidth savings exceeding 70\% compared to traditional centralized streaming approaches.
+\begin{figure}[h!]
+    \centering
+    \includegraphics[width=0.75\textwidth]{IMG/8.png}
+    \caption{Annual monthly average forecast of global internet traffic (EB/month)}
+    \label{fig:internet_traffic}
+\end{figure}
+\FloatBarrier
 
-\subsubsection{Enhanced Security and Privacy}
-Edge computing significantly improves data security and privacy by processing sensitive information locally, reducing the risk of data interception or unauthorized access during network transit. Localized processing limits data exposure to external threats and provides better compliance with data protection regulations such as GDPR.
+With the exponential rise in IoT devices and connected systems, centralized cloud architectures increasingly struggle with bandwidth limitations and network congestion. Transmitting vast volumes of raw data to the cloud places enormous stress on existing infrastructure, driving up operational costs and increasing latency.
 
-\noindent\textit{Example:} In healthcare, edge computing devices analyze patient health data directly at the patient's location. This minimizes the transmission of sensitive patient information, thus reducing the risks associated with data breaches or unauthorized access.
+\noindent\textit{Edge Advantage:} Edge computing mitigates this issue by locally pre-processing data, transmitting only aggregated or critical information to central servers. This not only optimizes bandwidth usage but also ensures faster and more reliable service delivery. A typical example includes smart surveillance systems that analyze video streams locally and transmit only relevant segments.
 
-\subsubsection{Decentralized Data Processing}
-Edge computing leverages decentralized data processing, distributing computational tasks across multiple nodes. This decentralized architecture provides enhanced scalability, allowing for easy expansion by adding more edge devices or nodes without significant infrastructure changes. It also increases the system’s resilience by reducing reliance on centralized servers, ensuring continuous operation even if certain nodes fail.
+\subsubsection{Security Risks and Privacy Concerns}
+Transmitting sensitive data over public networks to centralized data centers elevates the risk of interception, unauthorized access, or regulatory non-compliance—particularly in fields such as healthcare or finance.
 
-\noindent\textit{Example:} In manufacturing plants, decentralized edge nodes enable continuous and reliable monitoring and analytics. Even if communication with a central server is disrupted, local nodes continue to process data, ensuring operational continuity and minimizing downtime.
+\noindent\textit{Edge Advantage:} Localized data processing enhances both privacy and security. Sensitive data can be processed and stored at the edge, reducing the frequency and scope of data transfers. This localized approach aligns more easily with data protection regulations like GDPR or HIPAA. For example, wearable medical devices using edge analytics can monitor patient vitals while keeping raw data secure on the device.
+
+\subsubsection{Scalability Challenges}
+Scaling a centralized cloud infrastructure often involves significant capital expenditure and long deployment cycles. Moreover, centralized models may struggle to adapt dynamically to large, dispersed networks of IoT or smart devices.
+
+\noindent\textit{Edge Advantage:} The decentralized nature of edge computing enables horizontal scalability. New nodes can be deployed incrementally and independently, enhancing system flexibility without overloading central infrastructure. Industrial environments, for example, can scale analytics capabilities by simply adding edge modules to new machines.
+
+\subsubsection{Reliability and Single-Point-of-Failure Risks}
+Dependence on centralized data centers introduces single points of failure—if connectivity or the cloud server fails, the entire system may become inoperative.
+
+\noindent\textit{Edge Advantage:} Edge architectures improve resilience by allowing local operations to continue even if central connectivity is lost. In manufacturing or remote monitoring scenarios, edge nodes ensure system continuity and data integrity despite intermittent cloud access.
+
+\subsubsection{Energy Consumption and Operational Costs}
+Large-scale cloud data centers require massive energy for processing, cooling, and data transmission, leading to high environmental and operational costs.
+
+\noindent\textit{Edge Advantage:} By limiting unnecessary data transmission and enabling localized computing, edge systems reduce energy usage and improve operational efficiency. In IoT-based agriculture or smart building systems, edge devices can autonomously process sensor data, reducing dependency on energy-intensive cloud servers.
+
+\bigskip
+
+\noindent In summary, edge computing acts as a practical and scalable response to the limitations of centralized cloud computing. By enhancing latency, security, bandwidth, and resilience, edge technologies extend the reach and capability of the cloud, particularly for applications requiring local intelligence, real-time responsiveness, and high data autonomy.
 
 
 \subsection{Challenges}
