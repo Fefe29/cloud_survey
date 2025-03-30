@@ -1,6 +1,8 @@
 \documentclass{beamer}
 \usetheme{CambridgeUS}
 \setbeamertemplate{footline}[frame number] % Affiche uniquement le numéro de page
+
+\setbeameroption{show notes on second screen=right} % Affiche les notes à droite
 \usepackage[utf8]{inputenc}
 \usepackage{graphicx}
 \usepackage{hyperref}
@@ -23,6 +25,9 @@
     \item Traditional cloud computing reaches its limits
     \item \textbf{Edge computing} brings computation closer to the data source
   \end{itemize}
+  \note{
+    Over the past decade, we've seen an explosion of connected devices and services. Traditional cloud computing is showing its limits in terms of speed, privacy, and efficiency. Edge computing addresses these by bringing computation closer to where the data is generated.
+  }
 \end{frame}
 
 %--- Slide 2: Why Edge Computing? ---
@@ -33,6 +38,9 @@
     \item \textbf{Privacy:} Keeps sensitive data local
     \item \textbf{Resilience:} Operates even with cloud disconnections
   \end{itemize}
+  \note{
+    Edge computing helps reduce latency by processing data locally. It decreases bandwidth use, enhances privacy, and ensures services continue running even if the cloud is unavailable.
+  }
 \end{frame}
 
 %--- Slide 3: Architecture Overview ---
@@ -45,6 +53,9 @@
   \vspace{0.5cm}
   \centering
   \includegraphics[width=0.6\linewidth]{IMG/6.png} % Optional
+  \note{
+    The edge architecture consists of three layers: edge devices, edge nodes, and the cloud. The goal is to shift part of the processing to the edge, while still leveraging cloud capabilities.
+  }
 \end{frame}
 
 %--- Slide 4: Use Case - IoT ---
@@ -54,6 +65,9 @@
     \item Environmental monitoring: air quality, agriculture
     \item Local processing improves responsiveness and privacy
   \end{itemize}
+  \note{
+    IoT applications benefit from edge computing through fast reactions and privacy. In smart homes, sensors react immediately. In agriculture, edge devices adapt irrigation in real time.
+  }
 \end{frame}
 
 %--- Slide 5: Use Case - Autonomous Vehicles ---
@@ -63,6 +77,9 @@
     \item Requires instant decision-making (e.g. braking)
     \item Edge computing enables safety-critical operations
   \end{itemize}
+  \note{
+    Autonomous vehicles need to process data within milliseconds. Edge computing allows cars to detect obstacles and make driving decisions instantly, which is essential for safety.
+  }
 \end{frame}
 
 %--- Slide 6: Use Case - Smart Cities ---
@@ -72,6 +89,9 @@
     \item Public safety and surveillance
     \item Energy optimization and environmental monitoring
   \end{itemize}
+  \note{
+    Edge computing enables cities to be smarter and more efficient. Local processing in traffic lights and surveillance systems improves responsiveness and reduces network dependency.
+  }
 \end{frame}
 
 %--- Slide 7: Use Case - Healthcare ---
@@ -81,6 +101,9 @@
     \item On-site diagnostics in emergencies
     \item Strong data privacy and compliance (e.g. GDPR)
   \end{itemize}
+  \note{
+    Healthcare systems use edge computing for real-time monitoring and diagnostics. Patient data stays local, enhancing privacy and compliance with health data regulations.
+  }
 \end{frame}
 
 %--- Slide 8: Pros and Cons ---
@@ -98,6 +121,9 @@
     \item Interoperability with cloud platforms
     \item Security at the edge
   \end{itemize}
+  \note{
+    While edge computing has many strengths, it introduces new challenges. Managing and securing distributed nodes is complex, and integration with existing cloud systems remains tricky.
+  }
 \end{frame}
 
 %--- Slide 9: Trends and Future Perspectives ---
@@ -107,6 +133,9 @@
     \item Lightweight containers and orchestration (e.g. K3s)
     \item Research in privacy-preserving analytics, federated learning
   \end{itemize}
+  \note{
+    Edge computing is evolving. With AI, devices make smarter decisions. 5G supports high-speed communication. New tools like K3s make edge deployment easier, and research continues on privacy.
+  }
 \end{frame}
 
 %--- Slide 10: Conclusion ---
@@ -117,7 +146,10 @@
       \item Future: a hybrid cloud-edge ecosystem
     \end{itemize}
     \vspace{0.3cm}
-    Thank you!\\
+    Thank you!
+    \note{
+      In conclusion, edge computing complements the cloud. It improves response times, protects data, and enables smarter systems. The future lies in combining both models for flexibility and power.
+    }
   \end{frame}
 
 %--- Slide 11: Open Question / Discussion ---
@@ -127,8 +159,9 @@
     \textbf{With network demands constantly rising, will edge computing be enough?}\\
     Or is it just a temporary relief before a new saturation point?
   \end{block}
+  \note{
+    Let's open the floor: Do you think edge computing is a long-term solution, or just a short-term patch? Can it keep up with the exploding demand for connectivity and data?
+  }
 \end{frame}
-
-
 
 \end{document}
