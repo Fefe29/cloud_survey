@@ -1,7 +1,7 @@
 # Fdb version 3
-["pdflatex"] 1743374060 "/home/fefe/home/canada/cloud/survey/Présentation/presentation.tex" "presentation.pdf" "presentation" 1743374062
+["pdflatex"] 1743374172 "/home/fefe/home/canada/cloud/survey/Présentation/presentation.tex" "presentation.pdf" "presentation" 1743374175
   "/etc/texmf/web2c/texmf.cnf" 1730730097 475 c0e671620eb5563b2130f56340a5fde8 ""
-  "/home/fefe/home/canada/cloud/survey/Présentation/presentation.tex" 1743374057 11302 83ec7469f3c789a6d60161e3515f7996 ""
+  "/home/fefe/home/canada/cloud/survey/Présentation/presentation.tex" 1743374171 11475 69a23685f717e2e7da73595c01b7f938 ""
   "/usr/share/texlive/texmf-dist/fonts/map/fontname/texfonts.map" 1577235249 3524 cb3e574dea2d1052e39280babc910dc8 ""
   "/usr/share/texlive/texmf-dist/fonts/tfm/jknappen/ec/ecsi0900.tfm" 1136768653 3584 859c630ad84177317fc9327eec97f76b ""
   "/usr/share/texlive/texmf-dist/fonts/tfm/jknappen/ec/ecsi1000.tfm" 1136768653 3584 87c00098505ed1ab5849d7a05016cb73 ""
@@ -223,10 +223,10 @@
   "IMG/14.png" 1743355026 46384 6d9ed347eb8c4b671872421a6682d445 ""
   "IMG/15.jpg" 1743355026 75946 3b982882ffcd8ebdbe1b7bfada40ef82 ""
   "IMG/6.png" 1743356117 189266 7a582376f21278cade30a21c2a995ac4 ""
-  "presentation.aux" 1743374061 2633 b1c1488513916dea6fa5b42a0189c156 "pdflatex"
-  "presentation.nav" 1743374061 1388 7a70863fe1332a62556633d89757c3e2 "pdflatex"
-  "presentation.out" 1743374060 0 d41d8cd98f00b204e9800998ecf8427e "pdflatex"
-  "presentation.tex" 1743374057 11302 83ec7469f3c789a6d60161e3515f7996 ""
+  "presentation.aux" 1743374175 2633 b1c1488513916dea6fa5b42a0189c156 "pdflatex"
+  "presentation.nav" 1743374175 1388 7a70863fe1332a62556633d89757c3e2 "pdflatex"
+  "presentation.out" 1743374173 0 d41d8cd98f00b204e9800998ecf8427e "pdflatex"
+  "presentation.tex" 1743374171 11475 69a23685f717e2e7da73595c01b7f938 ""
   (generated)
   "presentation.aux"
   "presentation.log"
