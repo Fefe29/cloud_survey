@@ -129,15 +129,13 @@ Edge devices represent the initial stage in the architecture, composed mainly of
 \end{itemize}
 
 \subsubsection{Edge Nodes (Local Processing Layer)}
-Edge nodes are intermediate computing points located near edge devices. They include gateways, routers, small-scale local servers, and micro data centers strategically positioned close to the source of data generation. Their principal responsibilities include:
-\begin{itemize}
-    \item Advanced data filtering, aggregation, and analysis tasks.
-    \item Real-time analytics and local decision-making to reduce latency.
-    \item Temporary data storage to reduce network bandwidth consumption.
-    \item Acting as intermediaries, managing communication between edge devices and cloud servers.
-\end{itemize}
+Edge nodes are intermediate computing points located near edge devices, enabling localized data processing, efficient resource utilization, and reduced latency. These nodes bridge the gap between edge devices and cloud infrastructure, ensuring seamless data flow and intelligent decision-making. Positioned strategically close to data sources, they handle tasks such as advanced data filtering, aggregation, real-time analytics, and temporary data storage, reducing the need for constant cloud communication and minimizing network bandwidth consumption. Additionally, they serve as intermediaries that manage interactions between edge devices and cloud services, optimizing overall system performance.  
 
-These nodes significantly enhance processing efficiency, reduce latency, and provide robust security due to localized management of sensitive data.
+Several key components define the edge node layer. The \textbf{edge gateway} plays a crucial role in facilitating communication between edge devices and the cloud by handling protocol translation, network security, and initial data processing. It aggregates data from multiple sources, filtering redundant information and ensuring efficient transmission. Complementing this, the \textbf{edge controller} is responsible for real-time monitoring and automation, overseeing critical device-level operations such as industrial control systems, robotics, and smart infrastructure. By executing predefined logic, edge controllers enable immediate responses without relying on centralized processing.  
+
+For more demanding computational tasks, the \textbf{edge cloud} functions as a localized micro data center, providing storage, processing power, and AI/ML capabilities closer to the source. This environment supports virtualization, distributed computing, and real-time analytics while ensuring low-latency execution. At the foundational level, \textbf{edge sensors} act as the primary data-generating components, capturing real-world information such as temperature, motion, video, and biometric data. Smart sensors with embedded processing capabilities can perform preliminary computations, such as anomaly detection and signal preprocessing, reducing unnecessary data transmission and improving efficiency.  
+
+By leveraging these interconnected components, the local processing layer significantly enhances computational efficiency, ensures real-time analytics, and strengthens security by managing sensitive data closer to its origin.
 
 \begin{figure}[ht]
     \centering
