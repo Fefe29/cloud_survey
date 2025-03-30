@@ -1,56 +1,54 @@
-This is pdfTeX, Version 3.141592653-2.6-1.40.22 (TeX Live 2022/dev/Debian) (preloaded format=pdflatex 2025.2.15)  29 MAR 2025 21:13
+This is pdfTeX, Version 3.141592653-2.6-1.40.27 (TeX Live 2025) (preloaded format=pdflatex 2025.3.20)  29 MAR 2025 22:51
 entering extended mode
  restricted \write18 enabled.
- file:line:error style messages enabled.
  %&-line parsing enabled.
-**/home/fefe/home/canada/cloud/survey/survey/survey.tex
-(/home/fefe/home/canada/cloud/survey/survey/survey.tex
-LaTeX2e <2021-11-15> patch level 1
-L3 programming layer <2022-01-21> (/usr/share/texlive/texmf-dist/tex/latex/llncs/llncs.cls
-Document Class: llncs 2022/01/12 v2.21 
+**/Users/Galilea/cloud_survey/survey/survey.tex
+(/Users/Galilea/cloud_survey/survey/survey.tex
+LaTeX2e <2024-11-01> patch level 2
+L3 programming layer <2025-01-18>
+(/usr/local/texlive/2025basic/texmf-dist/tex/latex/llncs/llncs.cls
+Document Class: llncs 2025/02/25 v2.26 
  LaTeX document class for Lecture Notes in Computer Science
-(/usr/share/texlive/texmf-dist/tex/latex/base/article.cls
-Document Class: article 2021/10/04 v1.4n Standard LaTeX document class
-(/usr/share/texlive/texmf-dist/tex/latex/base/size10.clo
-File: size10.clo 2021/10/04 v1.4n Standard LaTeX file (size option)
+(/usr/local/texlive/2025basic/texmf-dist/tex/latex/base/article.cls
+Document Class: article 2024/06/29 v1.4n Standard LaTeX document class
+(/usr/local/texlive/2025basic/texmf-dist/tex/latex/base/size10.clo
+File: size10.clo 2024/06/29 v1.4n Standard LaTeX file (size option)
 )
-\c@part=\count185
-\c@section=\count186
-\c@subsection=\count187
-\c@subsubsection=\count188
-\c@paragraph=\count189
-\c@subparagraph=\count190
-\c@figure=\count191
-\c@table=\count192
-\abovecaptionskip=\skip47
-\belowcaptionskip=\skip48
-\bibindent=\dimen138
-) (/usr/share/texlive/texmf-dist/tex/latex/tools/multicol.sty
-Package: multicol 2021/10/28 v1.9b multicolumn formatting (FMi)
-\c@tracingmulticols=\count193
-\mult@box=\box50
-\multicol@leftmargin=\dimen139
-\c@unbalance=\count194
-\c@collectmore=\count195
-\doublecol@number=\count196
-\multicoltolerance=\count197
-\multicolpretolerance=\count198
-\full@width=\dimen140
-\page@free=\dimen141
-\premulticols=\dimen142
-\postmulticols=\dimen143
-\multicolsep=\skip49
-\multicolbaselineskip=\skip50
-\partial@page=\box51
-\last@line=\box52
-\maxbalancingoverflow=\dimen144
-\mult@rightbox=\box53
-\mult@grightbox=\box54
-\mult@firstbox=\box55
-\mult@gfirstbox=\box56
-\@tempa=\box57
-\@tempa=\box58
-\@tempa=\box59
+\c@part=\count196
+\c@section=\count197
+\c@subsection=\count198
+\c@subsubsection=\count199
+\c@paragraph=\count266
+\c@subparagraph=\count267
+\c@figure=\count268
+\c@table=\count269
+\abovecaptionskip=\skip49
+\belowcaptionskip=\skip50
+\bibindent=\dimen141
+) (/usr/local/texlive/2025basic/texmf-dist/tex/latex/tools/multicol.sty
+Package: multicol 2024/09/14 v1.9i multicolumn formatting (FMi)
+\c@tracingmulticols=\count270
+\mult@box=\box52
+\multicol@leftmargin=\dimen142
+\c@unbalance=\count271
+\c@collectmore=\count272
+\doublecol@number=\count273
+\multicoltolerance=\count274
+\multicolpretolerance=\count275
+\full@width=\dimen143
+\page@free=\dimen144
+\premulticols=\dimen145
+\postmulticols=\dimen146
+\multicolsep=\skip51
+\multicolbaselineskip=\skip52
+\partial@page=\box53
+\last@line=\box54
+\mc@boxedresult=\box55
+\maxbalancingoverflow=\dimen147
+\mult@rightbox=\box56
+\mult@grightbox=\box57
+\mult@firstbox=\box58
+\mult@gfirstbox=\box59
 \@tempa=\box60
 \@tempa=\box61
 \@tempa=\box62
@@ -84,94 +82,98 @@ Package: multicol 2021/10/28 v1.9b multicolumn formatting (FMi)
 \@tempa=\box90
 \@tempa=\box91
 \@tempa=\box92
-\c@minrows=\count199
-\c@columnbadness=\count266
-\c@finalcolumnbadness=\count267
-\last@try=\dimen145
-\multicolovershoot=\dimen146
-\multicolundershoot=\dimen147
-\mult@nat@firstbox=\box93
-\colbreak@box=\box94
-\mc@col@check@num=\count268
-) (/usr/share/texlive/texmf-dist/tex/latex/oberdiek/aliascnt.sty
+\@tempa=\box93
+\@tempa=\box94
+\@tempa=\box95
+\c@minrows=\count276
+\c@columnbadness=\count277
+\c@finalcolumnbadness=\count278
+\last@try=\dimen148
+\multicolovershoot=\dimen149
+\multicolundershoot=\dimen150
+\mult@nat@firstbox=\box96
+\colbreak@box=\box97
+\mc@col@check@num=\count279
+) (/usr/local/texlive/2025basic/texmf-dist/tex/latex/oberdiek/aliascnt.sty
 Package: aliascnt 2018/09/07 v1.5 Alias counters (HO)
 )
-\c@chapter=\count269
-LaTeX Font Info:    Redeclaring math symbol \Gamma on input line 362.
-LaTeX Font Info:    Redeclaring math symbol \Delta on input line 363.
-LaTeX Font Info:    Redeclaring math symbol \Theta on input line 364.
-LaTeX Font Info:    Redeclaring math symbol \Lambda on input line 365.
-LaTeX Font Info:    Redeclaring math symbol \Xi on input line 366.
-LaTeX Font Info:    Redeclaring math symbol \Pi on input line 367.
-LaTeX Font Info:    Redeclaring math symbol \Sigma on input line 368.
-LaTeX Font Info:    Redeclaring math symbol \Upsilon on input line 369.
-LaTeX Font Info:    Redeclaring math symbol \Phi on input line 370.
-LaTeX Font Info:    Redeclaring math symbol \Psi on input line 371.
-LaTeX Font Info:    Redeclaring math symbol \Omega on input line 372.
-\tocchpnum=\dimen148
-\tocsecnum=\dimen149
-\tocsectotal=\dimen150
-\tocsubsecnum=\dimen151
-\tocsubsectotal=\dimen152
-\tocsubsubsecnum=\dimen153
-\tocsubsubsectotal=\dimen154
-\tocparanum=\dimen155
-\tocparatotal=\dimen156
-\tocsubparanum=\dimen157
-\@tempcntc=\count270
-\fnindent=\dimen158
-\c@@inst=\count271
-\c@@auth=\count272
-\c@auco=\count273
-\instindent=\dimen159
-\authrun=\box95
-\authorrunning=\toks16
-\tocauthor=\toks17
-\titrun=\box96
-\titlerunning=\toks18
-\toctitle=\toks19
-\c@theorem=\count274
-\c@case=\count275
-\c@conjecture=\count276
-\c@corollary=\count277
-\c@definition=\count278
-\c@example=\count279
-\c@exercise=\count280
-\c@lemma=\count281
-\c@note=\count282
-\c@problem=\count283
-\c@property=\count284
-\c@proposition=\count285
-\c@question=\count286
-\c@solution=\count287
-\c@remark=\count288
-\headlineindent=\dimen160
-) (/usr/share/texlive/texmf-dist/tex/latex/base/fontenc.sty
+\c@chapter=\count280
+LaTeX Font Info:    Redeclaring math symbol \Gamma on input line 379.
+LaTeX Font Info:    Redeclaring math symbol \Delta on input line 380.
+LaTeX Font Info:    Redeclaring math symbol \Theta on input line 381.
+LaTeX Font Info:    Redeclaring math symbol \Lambda on input line 382.
+LaTeX Font Info:    Redeclaring math symbol \Xi on input line 383.
+LaTeX Font Info:    Redeclaring math symbol \Pi on input line 384.
+LaTeX Font Info:    Redeclaring math symbol \Sigma on input line 385.
+LaTeX Font Info:    Redeclaring math symbol \Upsilon on input line 386.
+LaTeX Font Info:    Redeclaring math symbol \Phi on input line 387.
+LaTeX Font Info:    Redeclaring math symbol \Psi on input line 388.
+LaTeX Font Info:    Redeclaring math symbol \Omega on input line 389.
+LaTeX Info: Redefining \vec on input line 394.
+\tocchpnum=\dimen151
+\tocsecnum=\dimen152
+\tocsectotal=\dimen153
+\tocsubsecnum=\dimen154
+\tocsubsectotal=\dimen155
+\tocsubsubsecnum=\dimen156
+\tocsubsubsectotal=\dimen157
+\tocparanum=\dimen158
+\tocparatotal=\dimen159
+\tocsubparanum=\dimen160
+\@tempcntc=\count281
+\fnindent=\dimen161
+\c@@inst=\count282
+\c@@auth=\count283
+\c@auco=\count284
+\instindent=\dimen162
+\authrun=\box98
+\authorrunning=\toks17
+\tocauthor=\toks18
+\titrun=\box99
+\titlerunning=\toks19
+\toctitle=\toks20
+\c@theorem=\count285
+\c@case=\count286
+\c@conjecture=\count287
+\c@corollary=\count288
+\c@definition=\count289
+\c@example=\count290
+\c@exercise=\count291
+\c@lemma=\count292
+\c@note=\count293
+\c@problem=\count294
+\c@property=\count295
+\c@proposition=\count296
+\c@question=\count297
+\c@solution=\count298
+\c@remark=\count299
+\headlineindent=\dimen163
+) (/usr/local/texlive/2025basic/texmf-dist/tex/latex/base/fontenc.sty
 Package: fontenc 2021/04/29 v2.0v Standard LaTeX package
-) (/usr/share/texlive/texmf-dist/tex/latex/graphics/graphicx.sty
+) (/usr/local/texlive/2025basic/texmf-dist/tex/latex/graphics/graphicx.sty
 Package: graphicx 2021/09/16 v1.2d Enhanced LaTeX Graphics (DPC,SPQR)
- (/usr/share/texlive/texmf-dist/tex/latex/graphics/keyval.sty
-Package: keyval 2014/10/28 v1.15 key=value parser (DPC)
-\KV@toks@=\toks20
-) (/usr/share/texlive/texmf-dist/tex/latex/graphics/graphics.sty
-Package: graphics 2021/03/04 v1.4d Standard LaTeX Graphics (DPC,SPQR)
- (/usr/share/texlive/texmf-dist/tex/latex/graphics/trig.sty
-Package: trig 2021/08/11 v1.11 sin cos tan (DPC)
-) (/usr/share/texlive/texmf-dist/tex/latex/graphics-cfg/graphics.cfg
+ (/usr/local/texlive/2025basic/texmf-dist/tex/latex/graphics/keyval.sty
+Package: keyval 2022/05/29 v1.15 key=value parser (DPC)
+\KV@toks@=\toks21
+) (/usr/local/texlive/2025basic/texmf-dist/tex/latex/graphics/graphics.sty
+Package: graphics 2024/08/06 v1.4g Standard LaTeX Graphics (DPC,SPQR)
+ (/usr/local/texlive/2025basic/texmf-dist/tex/latex/graphics/trig.sty
+Package: trig 2023/12/02 v1.11 sin cos tan (DPC)
+) (/usr/local/texlive/2025basic/texmf-dist/tex/latex/graphics-cfg/graphics.cfg
 File: graphics.cfg 2016/06/04 v1.11 sample graphics configuration
 )
-Package graphics Info: Driver file: pdftex.def on input line 107.
- (/usr/share/texlive/texmf-dist/tex/latex/graphics-def/pdftex.def
-File: pdftex.def 2020/10/05 v1.2a Graphics/color driver for pdftex
+Package graphics Info: Driver file: pdftex.def on input line 106.
+ (/usr/local/texlive/2025basic/texmf-dist/tex/latex/graphics-def/pdftex.def
+File: pdftex.def 2024/04/13 v1.2c Graphics/color driver for pdftex
 ))
-\Gin@req@height=\dimen161
-\Gin@req@width=\dimen162
-) (/usr/share/texlive/texmf-dist/tex/latex/placeins/placeins.sty
+\Gin@req@height=\dimen164
+\Gin@req@width=\dimen165
+) (/usr/local/texlive/2025basic/texmf-dist/tex/latex/placeins/placeins.sty
 Package: placeins 2005/04/18  v 2.2
-) (/usr/share/texlive/texmf-dist/tex/latex/l3backend/l3backend-pdftex.def
-File: l3backend-pdftex.def 2022-01-12 L3 backend support: PDF output (pdfTeX)
-\l__color_backend_stack_int=\count289
-\l__pdf_internal_box=\box97
+) (/usr/local/texlive/2025basic/texmf-dist/tex/latex/l3backend/l3backend-pdftex.def
+File: l3backend-pdftex.def 2024-05-08 L3 backend support: PDF output (pdfTeX)
+\l__color_backend_stack_int=\count300
+\l__pdf_internal_box=\box100
 ) (./survey.aux)
 \openout1 = `survey.aux'.
 
@@ -189,53 +191,62 @@ LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 6.
 LaTeX Font Info:    ... okay on input line 6.
 LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 6.
 LaTeX Font Info:    ... okay on input line 6.
- (/usr/share/texlive/texmf-dist/tex/context/base/mkii/supp-pdf.mkii
+ (/usr/local/texlive/2025basic/texmf-dist/tex/context/base/mkii/supp-pdf.mkii
 [Loading MPS to PDF converter (version 2006.09.02).]
-\scratchcounter=\count290
-\scratchdimen=\dimen163
-\scratchbox=\box98
-\nofMPsegments=\count291
-\nofMParguments=\count292
-\everyMPshowfont=\toks21
-\MPscratchCnt=\count293
-\MPscratchDim=\dimen164
-\MPnumerator=\count294
-\makeMPintoPDFobject=\count295
-\everyMPtoPDFconversion=\toks22
-) (/usr/share/texlive/texmf-dist/tex/latex/epstopdf-pkg/epstopdf-base.sty
+\scratchcounter=\count301
+\scratchdimen=\dimen166
+\scratchbox=\box101
+\nofMPsegments=\count302
+\nofMParguments=\count303
+\everyMPshowfont=\toks22
+\MPscratchCnt=\count304
+\MPscratchDim=\dimen167
+\MPnumerator=\count305
+\makeMPintoPDFobject=\count306
+\everyMPtoPDFconversion=\toks23
+) (/usr/local/texlive/2025basic/texmf-dist/tex/latex/epstopdf-pkg/epstopdf-base.sty
 Package: epstopdf-base 2020-01-24 v2.11 Base part for package epstopdf
 Package epstopdf-base Info: Redefining graphics rule for `.eps' on input line 485.
- (/usr/share/texlive/texmf-dist/tex/latex/latexconfig/epstopdf-sys.cfg
+ (/usr/local/texlive/2025basic/texmf-dist/tex/latex/latexconfig/epstopdf-sys.cfg
 File: epstopdf-sys.cfg 2010/07/13 v1.3 Configuration of (r)epstopdf for TeX Live
 ))
 LaTeX Font Info:    External font `cmex10' loaded for size
 (Font)              <7> on input line 15.
 LaTeX Font Info:    External font `cmex10' loaded for size
 (Font)              <5> on input line 15.
-LaTeX Font Info:    Trying to load font information for T1+cmtt on input line 15.
- (/usr/share/texlive/texmf-dist/tex/latex/base/t1cmtt.fd
-File: t1cmtt.fd 2019/12/16 v2.5j Standard LaTeX font definitions
-) [1
 
-{/var/lib/texmf/fonts/map/pdftex/updmap/pdftex.map}]
+
+[1
+
+{/usr/local/texlive/2025basic/texmf-var/fonts/map/pdftex/updmap/pdftex.map}]
 <IMG/8.png, id=14, 393.47pt x 281.55188pt>
 File: IMG/8.png Graphic file (type png)
 <use IMG/8.png>
 Package pdftex.def Info: IMG/8.png  used on input line 42.
 (pdftex.def)             Requested size: 260.34265pt x 186.28879pt.
- [2 <./IMG/8.png>] [3]
+
+
+[2 <./IMG/8.png>]
+
+[3]
 <IMG/5.png, id=24, 346.29375pt x 179.67125pt>
 File: IMG/5.png Graphic file (type png)
 <use IMG/5.png>
 Package pdftex.def Info: IMG/5.png  used on input line 88.
 (pdftex.def)             Requested size: 242.98541pt x 126.07332pt.
- [4 <./IMG/5.png>] [5]
+
+
+[4 <./IMG/5.png>]
+
+[5]
 <IMG/4.png, id=32, 416.05438pt x 212.795pt>
 File: IMG/4.png Graphic file (type png)
 <use IMG/4.png>
 Package pdftex.def Info: IMG/4.png  used on input line 143.
 (pdftex.def)             Requested size: 277.69987pt x 142.03938pt.
- [6 <./IMG/4.png>]
+
+
+[6 <./IMG/4.png>]
 <IMG/6.png, id=37, 481.8pt x 379.91937pt>
 File: IMG/6.png Graphic file (type png)
 <use IMG/6.png>
@@ -246,10 +257,16 @@ File: IMG/10.png Graphic file (type png)
 <use IMG/10.png>
 Package pdftex.def Info: IMG/10.png  used on input line 180.
 (pdftex.def)             Requested size: 295.05711pt x 210.30092pt.
- [7 <./IMG/6.png>] [8 <./IMG/10.png>]
+
+
+[7 <./IMG/6.png>]
+
+[8 <./IMG/10.png>]
 Overfull \hbox (0.52347pt too wide) in paragraph at lines 206--207
  \T1/cmr/bx/n/10 De-cen-tral-ized Data Pro-cess-ing[] \T1/cmr/m/n/10 Edge com-put-ing lever-ages de-cen-tral-ized data
  []
+
+
 
 [9]
 <IMG/3.png, id=51, 608.2725pt x 233.87375pt>
@@ -257,24 +274,44 @@ File: IMG/3.png Graphic file (type png)
 <use IMG/3.png>
 Package pdftex.def Info: IMG/3.png  used on input line 237.
 (pdftex.def)             Requested size: 347.12354pt x 133.46642pt.
- [10]
+
+
+[10]
 <IMG/1.png, id=55, 282.05376pt x 239.89626pt>
 File: IMG/1.png Graphic file (type png)
 <use IMG/1.png>
 Package pdftex.def Info: IMG/1.png  used on input line 247.
 (pdftex.def)             Requested size: 260.34265pt x 221.44664pt.
- [11 <./IMG/3.png>] [12 <./IMG/1.png>] [13] [14] [15]
+
+
+[11 <./IMG/3.png>]
+
+[12 <./IMG/1.png>]
+
+[13]
+
+[14]
+
+[15]
 <IMG/7.png, id=74, 400.49625pt x 289.58188pt>
 File: IMG/7.png Graphic file (type png)
 <use IMG/7.png>
 Package pdftex.def Info: IMG/7.png  used on input line 341.
 (pdftex.def)             Requested size: 277.69987pt x 200.8059pt.
- [16 <./IMG/7.png>] [17]
+
+
+[16 <./IMG/7.png>]
+
+[17]
 Overfull \hbox (5.45703pt too wide) in paragraph at lines 379--380
 \T1/cmr/m/n/10 tribut-ing to im-proved pa-tient out-comes, op-ti-mized health-care de-liv-ery, and height-
  []
 
-[18] [19]
+
+
+[18]
+
+[19]
 Overfull \hbox (1.76349pt too wide) in paragraph at lines 424--425
 \T1/cmr/m/n/10 cial in-tel-li-gence and ma-chine learn-ing al-go-rithms tai-lored for resource-constrained
  []
@@ -283,6 +320,8 @@ Overfull \hbox (1.76349pt too wide) in paragraph at lines 424--425
 Overfull \hbox (16.19186pt too wide) in paragraph at lines 426--427
 \T1/cmr/m/it/10 Example: \T1/cmr/m/n/10 Edge-optimized neu-ral net-work ar-chi-tec-tures (such as Mo-bileNet, TinyML,
  []
+
+
 
 [20]
 Overfull \hbox (7.87311pt too wide) in paragraph at lines 451--452
@@ -299,6 +338,8 @@ Overfull \hbox (6.51233pt too wide) in paragraph at lines 451--452
 \T1/cmr/m/n/10 gence of ad-vanced ap-pli-ca-tions such as real-time aug-mented re-al-ity, smart robotics,
  []
 
+
+
 [21]
 Overfull \hbox (6.69174pt too wide) in paragraph at lines 469--470
 \T1/cmr/m/n/10 by 5G con-nec-tiv-ity, sig-nif-i-cantly ad-vances robotic and au-toma-tion sys-tems. Robots
@@ -309,10 +350,14 @@ File: IMG/2.png Graphic file (type png)
 <use IMG/2.png>
 Package pdftex.def Info: IMG/2.png  used on input line 489.
 (pdftex.def)             Requested size: 277.69987pt x 221.69868pt.
+
+
 [22]
 Overfull \hbox (8.27713pt too wide) in paragraph at lines 506--507
 \T1/cmr/m/it/10 Example: \T1/cmr/m/n/10 Fu-ture frame-works could in-clude ad-vanced fed-er-ated learn-ing ap-proaches
  []
+
+
 
 [23 <./IMG/2.png>]
 Overfull \hbox (0.50125pt too wide) in paragraph at lines 521--522
@@ -324,25 +369,34 @@ Overfull \hbox (0.86227pt too wide) in paragraph at lines 526--527
 \T1/cmr/m/it/10 Example: \T1/cmr/m/n/10 Blockchain-based de-cen-tral-ized edge net-works can im-prove trust, trans-
  []
 
+
+
 [24]
 Overfull \hbox (9.84485pt too wide) in paragraph at lines 538--539
 \T1/cmr/m/n/10 works and stan-dard-ized ar-chi-tec-tures for seam-less cloud-edge col-lab-o-ra-tion. Emerg-
  []
 
-[25] (./survey.aux) ) 
+
+
+[25] (./survey.aux)
+ ***********
+LaTeX2e <2024-11-01> patch level 2
+L3 programming layer <2025-01-18>
+ ***********
+ ) 
 Here is how much of TeX's memory you used:
- 2091 strings out of 478287
- 31710 string characters out of 5849289
- 331617 words of memory out of 5000000
- 20291 multiletter control sequences out of 15000+600000
- 476758 words of font info for 39 fonts, out of 8000000 for 9000
- 1141 hyphenation exceptions out of 8191
- 55i,7n,62p,916b,255s stack positions out of 5000i,500n,10000p,200000b,80000s
-{/usr/share/texmf/fonts/enc/dvips/cm-super/cm-super-t1.enc}{/usr/share/texmf/fonts/enc/dvips/cm-super/cm-super-ts1.enc}</usr/share/texmf/fonts/type1/public/cm-super/sfbx0900.pfb></usr/share/texmf/fonts/type1/public/cm-super/sfbx1000.pfb></usr/share/texmf/fonts/type1/public/cm-super/sfbx1200.pfb></usr/share/texmf/fonts/type1/public/cm-super/sfbx1440.pfb></usr/share/texmf/fonts/type1/public/cm-super/sfrm0900.pfb></usr/share/texmf/fonts/type1/public/cm-super/sfrm1000.pfb></usr/share/texmf/fonts/type1/public/cm-super/sfti1000.pfb></usr/share/texmf/fonts/type1/public/cm-super/sftt0900.pfb>
-Output written on survey.pdf (25 pages, 1159960 bytes).
+ 2110 strings out of 474662
+ 31887 string characters out of 5751109
+ 427648 words of memory out of 5000000
+ 25167 multiletter control sequences out of 15000+600000
+ 566336 words of font info for 47 fonts, out of 8000000 for 9000
+ 319 hyphenation exceptions out of 8191
+ 57i,7n,65p,908b,236s stack positions out of 10000i,1000n,20000p,200000b,200000s
+ </Users/Galilea/Library/texlive/2025basic/texmf-var/fonts/pk/ljfour/jknappen/ec/ecti1000.600pk> </Users/Galilea/Library/texlive/2025basic/texmf-var/fonts/pk/ljfour/jknappen/ec/ecbx1000.600pk> </Users/Galilea/Library/texlive/2025basic/texmf-var/fonts/pk/ljfour/jknappen/ec/ecbx1200.600pk> </Users/Galilea/Library/texlive/2025basic/texmf-var/fonts/pk/ljfour/jknappen/ec/tcrm0900.600pk> </Users/Galilea/Library/texlive/2025basic/texmf-var/fonts/pk/ljfour/jknappen/ec/ecbx0900.600pk> </Users/Galilea/Library/texlive/2025basic/texmf-var/fonts/pk/ljfour/jknappen/ec/ectt0900.600pk> </Users/Galilea/Library/texlive/2025basic/texmf-var/fonts/pk/ljfour/jknappen/ec/ecrm0900.600pk> </Users/Galilea/Library/texlive/2025basic/texmf-var/fonts/pk/ljfour/jknappen/ec/ecrm1000.600pk> </Users/Galilea/Library/texlive/2025basic/texmf-var/fonts/pk/ljfour/jknappen/ec/ecbx1440.600pk>
+Output written on survey.pdf (25 pages, 1071738 bytes).
 PDF statistics:
- 149 PDF objects out of 1000 (max. 8388607)
- 86 compressed objects within 1 object stream
+ 446 PDF objects out of 1000 (max. 8388607)
+ 94 compressed objects within 1 object stream
  0 named destinations out of 1000 (max. 500000)
  46 words of extra memory for PDF output out of 10000 (max. 10000000)
 
