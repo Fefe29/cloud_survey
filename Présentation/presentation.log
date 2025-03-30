@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.141592653-2.6-1.40.22 (TeX Live 2022/dev/Debian) (preloaded format=pdflatex 2025.2.15)  31 MAR 2025 01:26
+This is pdfTeX, Version 3.141592653-2.6-1.40.22 (TeX Live 2022/dev/Debian) (preloaded format=pdflatex 2025.2.15)  31 MAR 2025 01:28
 entering extended mode
  restricted \write18 enabled.
  file:line:error style messages enabled.
@@ -512,34 +512,7 @@ Package: amsthm 2020/05/29 v2.20.6
 ) (/usr/share/texlive/texmf-dist/tex/latex/beamer/beamerbasethemes.sty)) (/usr/share/texlive/texmf-dist/tex/latex/beamer/beamerthemedefault.sty (/usr/share/texlive/texmf-dist/tex/latex/beamer/beamerfontthemedefault.sty) (/usr/share/texlive/texmf-dist/tex/latex/beamer/beamercolorthemedefault.sty) (/usr/share/texlive/texmf-dist/tex/latex/beamer/beamerinnerthemedefault.sty
 \beamer@dima=\dimen282
 \beamer@dimb=\dimen283
-) (/usr/share/texlive/texmf-dist/tex/latex/beamer/beamerouterthemedefault.sty))) (/usr/share/texlive/texmf-dist/tex/latex/beamer/beamerthemeCambridgeUS.sty (/usr/share/texlive/texmf-dist/tex/latex/beamer/beamerinnerthemerounded.sty) (/usr/share/texlive/texmf-dist/tex/latex/beamer/beamerouterthemeinfolines.sty) (/usr/share/texlive/texmf-dist/tex/latex/beamer/beamercolorthemebeaver.sty)) (/usr/share/texlive/texmf-dist/tex/latex/pgf/utilities/pgfpages.sty
-Package: pgfpages 2011/01/05 ver 0.02
- (/usr/share/texlive/texmf-dist/tex/latex/tools/calc.sty
-Package: calc 2017/05/25 v4.3 Infix arithmetic (KKT,FJ)
-\calc@Acount=\count329
-\calc@Bcount=\count330
-\calc@Adimen=\dimen284
-\calc@Bdimen=\dimen285
-\calc@Askip=\skip64
-\calc@Bskip=\skip65
-LaTeX Info: Redefining \setlength on input line 80.
-LaTeX Info: Redefining \addtolength on input line 81.
-\calc@Ccount=\count331
-\calc@Cskip=\skip66
-)
-\pgf@logicalpages=\count332
-\pgf@firstshipout=\count333
-\pgf@lastshipout=\count334
-\pgf@currentshipout=\count335
-\pgf@cpn=\count336
-\pgf@shipoutnextto=\count337
-\pgfphysicalheight=\dimen286
-\pgfphysicalwidth=\dimen287
-\pgfpages@shipoutbox=\box75
-)
-\pgfpages@box@1=\box76
-\pgfpages@box@2=\box77
- (/usr/share/texlive/texmf-dist/tex/latex/base/inputenc.sty
+) (/usr/share/texlive/texmf-dist/tex/latex/beamer/beamerouterthemedefault.sty))) (/usr/share/texlive/texmf-dist/tex/latex/beamer/beamerthemeCambridgeUS.sty (/usr/share/texlive/texmf-dist/tex/latex/beamer/beamerinnerthemerounded.sty) (/usr/share/texlive/texmf-dist/tex/latex/beamer/beamerouterthemeinfolines.sty) (/usr/share/texlive/texmf-dist/tex/latex/beamer/beamercolorthemebeaver.sty)) (/usr/share/texlive/texmf-dist/tex/latex/base/inputenc.sty
 Package: inputenc 2021/02/14 v1.3d Input encoding file
 \inpenc@prehook=\toks45
 \inpenc@posthook=\toks46
@@ -549,19 +522,19 @@ Package: fontenc 2021/04/29 v2.0v Standard LaTeX package
 Package: caption 2020/10/26 v3.5g Customizing captions (AR)
  (/usr/share/texlive/texmf-dist/tex/latex/caption/caption3.sty
 Package: caption3 2020/10/21 v2.2e caption3 kernel (AR)
-\captionmargin=\dimen288
-\captionmargin@=\dimen289
-\captionwidth=\dimen290
-\caption@tempdima=\dimen291
-\caption@indent=\dimen292
-\caption@parindent=\dimen293
-\caption@hangindent=\dimen294
+\captionmargin=\dimen284
+\captionmargin@=\dimen285
+\captionwidth=\dimen286
+\caption@tempdima=\dimen287
+\caption@indent=\dimen288
+\caption@parindent=\dimen289
+\caption@hangindent=\dimen290
 Package caption Info: beamer document class detected.
  (/usr/share/texlive/texmf-dist/tex/latex/caption/caption-beamer.sto
 File: caption-beamer.sto 2020/08/22 v2.0 Adaption of the caption package to the beamer document classes (AR)
 ))
-\c@caption@flags=\count338
-\c@continuedfloat=\count339
+\c@caption@flags=\count329
+\c@continuedfloat=\count330
 Package caption Info: hyperref package is loaded.
 Package caption Info: Hyperref support is turned off
 (caption)             because hyperref has stopped early.
@@ -569,8 +542,8 @@ Package caption Info: Hyperref support is turned off
 Package: placeins 2005/04/18  v 2.2
 ) (/usr/share/texlive/texmf-dist/tex/latex/l3backend/l3backend-pdftex.def
 File: l3backend-pdftex.def 2022-01-12 L3 backend support: PDF output (pdfTeX)
-\l__color_backend_stack_int=\count340
-\l__pdf_internal_box=\box78
+\l__color_backend_stack_int=\count331
+\l__pdf_internal_box=\box75
 ) (./presentation.aux)
 \openout1 = `presentation.aux'.
 
@@ -629,16 +602,16 @@ LaTeX Font Info:    ... okay on input line 19.
 
 (/usr/share/texlive/texmf-dist/tex/context/base/mkii/supp-pdf.mkii
 [Loading MPS to PDF converter (version 2006.09.02).]
-\scratchcounter=\count341
-\scratchdimen=\dimen295
-\scratchbox=\box79
-\nofMPsegments=\count342
-\nofMParguments=\count343
+\scratchcounter=\count332
+\scratchdimen=\dimen291
+\scratchbox=\box76
+\nofMPsegments=\count333
+\nofMParguments=\count334
 \everyMPshowfont=\toks47
-\MPscratchCnt=\count344
-\MPscratchDim=\dimen296
-\MPnumerator=\count345
-\makeMPintoPDFobject=\count346
+\MPscratchCnt=\count335
+\MPscratchDim=\dimen292
+\MPnumerator=\count336
+\makeMPintoPDFobject=\count337
 \everyMPtoPDFconversion=\toks48
 ) (/usr/share/texlive/texmf-dist/tex/latex/epstopdf-pkg/epstopdf-base.sty
 Package: epstopdf-base 2020-01-24 v2.11 Base part for package epstopdf
@@ -654,7 +627,7 @@ Package: refcount 2019/12/15 v3.6 Data extraction from label references (HO)
 ) (/usr/share/texlive/texmf-dist/tex/generic/gettitlestring/gettitlestring.sty
 Package: gettitlestring 2019/12/15 v1.6 Cleanup title references (HO)
 )
-\c@section@level=\count347
+\c@section@level=\count338
 )
 LaTeX Info: Redefining \ref on input line 19.
 LaTeX Info: Redefining \pageref on input line 19.
@@ -731,33 +704,11 @@ Dictionary: translator-theorem-dictionary, Language: English
 )
 Package caption Info: Begin \AtBeginDocument code.
 Package caption Info: End \AtBeginDocument code.
- (./presentation.nav) [2
+ (./presentation.nav) [1
 
-{/var/lib/texmf/fonts/map/pdftex/updmap/pdftex.map}pdfTeX warning (ext4): destination with the same identifier (name{Navigation1}) has been already used, duplicate ignored
-
-\pgfpages@shipoutshipoutbox ...physicalpagesizes }
-                                                  \endgroup 
-l.36 \end{frame}
-                pdfTeX warning (ext4): destination with the same identifier (name{page.1}) has been already used, duplicate ignored
-
-\pgfpages@shipoutshipoutbox ...physicalpagesizes }
-                                                  \endgroup 
-l.36 \end{frame}
-                
+{/var/lib/texmf/fonts/map/pdftex/updmap/pdftex.map}] [2
 
 ] [3
-
-pdfTeX warning (ext4): destination with the same identifier (name{Navigation2}) has been already used, duplicate ignored
-
-\pgfpages@shipoutshipoutbox ...physicalpagesizes }
-                                                  \endgroup 
-l.58 \end{frame}
-                pdfTeX warning (ext4): destination with the same identifier (name{page.2}) has been already used, duplicate ignored
-
-\pgfpages@shipoutshipoutbox ...physicalpagesizes }
-                                                  \endgroup 
-l.58 \end{frame}
-                
 
 ]
 <IMG/6.png, id=124, 465.74pt x 355.82938pt>
@@ -767,153 +718,45 @@ Package pdftex.def Info: IMG/6.png  used on input line 76.
 (pdftex.def)             Requested size: 171.14764pt x 130.75893pt.
  [4
 
-pdfTeX warning (ext4): destination with the same identifier (name{Navigation3}) has been already used, duplicate ignored
-
-\pgfpages@shipoutshipoutbox ...physicalpagesizes }
-                                                  \endgroup 
-l.76 \end{frame}
-                pdfTeX warning (ext4): destination with the same identifier (name{page.3}) has been already used, duplicate ignored
-
-\pgfpages@shipoutshipoutbox ...physicalpagesizes }
-                                                  \endgroup 
-l.76 \end{frame}
-                
-
-]
-<IMG/12.png, id=152, 1539.7525pt x 831.105pt>
+ <./IMG/6.png>]
+<IMG/12.png, id=154, 1539.7525pt x 831.105pt>
 File: IMG/12.png Graphic file (type png)
 <use IMG/12.png>
 Package pdftex.def Info: IMG/12.png  used on input line 93.
 (pdftex.def)             Requested size: 205.37926pt x 110.85008pt.
  [5
 
-pdfTeX warning (ext4): destination with the same identifier (name{Navigation4}) has been already used, duplicate ignored
-
-\pgfpages@shipoutshipoutbox ...physicalpagesizes }
-                                                  \endgroup 
-l.93 \end{frame}
-                pdfTeX warning (ext4): destination with the same identifier (name{page.4}) has been already used, duplicate ignored
-
-\pgfpages@shipoutshipoutbox ...physicalpagesizes }
-                                                  \endgroup 
-l.93 \end{frame}
-                
-
- <./IMG/6.png>]
-<IMG/13.png, id=182, 363.3575pt x 387.4475pt>
+ <./IMG/12.png>]
+<IMG/13.png, id=180, 363.3575pt x 387.4475pt>
 File: IMG/13.png Graphic file (type png)
 <use IMG/13.png>
 Package pdftex.def Info: IMG/13.png  used on input line 107.
 (pdftex.def)             Requested size: 136.91603pt x 145.99597pt.
  [6
 
-pdfTeX warning (ext4): destination with the same identifier (name{Navigation5}) has been already used, duplicate ignored
-
-\pgfpages@shipoutshipoutbox ...physicalpagesizes }
-                                                  \endgroup 
-l.107 \end{frame}
-                 pdfTeX warning (ext4): destination with the same identifier (name{page.5}) has been already used, duplicate ignored
-
-\pgfpages@shipoutshipoutbox ...physicalpagesizes }
-                                                  \endgroup 
-l.107 \end{frame}
-                 
-
- <./IMG/12.png>]
-<IMG/14.png, id=209, 843.15pt x 421.575pt>
+ <./IMG/13.png>]
+<IMG/14.png, id=207, 843.15pt x 421.575pt>
 File: IMG/14.png Graphic file (type png)
 <use IMG/14.png>
 Package pdftex.def Info: IMG/14.png  used on input line 132.
 (pdftex.def)             Requested size: 171.14764pt x 85.57431pt.
  [7
 
-pdfTeX warning (ext4): destination with the same identifier (name{Navigation6}) has been already used, duplicate ignored
-
-\pgfpages@shipoutshipoutbox ...physicalpagesizes }
-                                                  \endgroup 
-l.132   \end{frame}
-                   pdfTeX warning (ext4): destination with the same identifier (name{page.6}) has been already used, duplicate ignored
-
-\pgfpages@shipoutshipoutbox ...physicalpagesizes }
-                                                  \endgroup 
-l.132   \end{frame}
-                   
-
- <./IMG/13.png>]
-<IMG/15.jpg, id=237, 770.88pt x 433.62pt>
+ <./IMG/14.png>]
+<IMG/15.jpg, id=235, 770.88pt x 433.62pt>
 File: IMG/15.jpg Graphic file (type jpg)
 <use IMG/15.jpg>
 Package pdftex.def Info: IMG/15.jpg  used on input line 147.
 (pdftex.def)             Requested size: 205.37926pt x 115.52408pt.
  [8
 
-pdfTeX warning (ext4): destination with the same identifier (name{Navigation7}) has been already used, duplicate ignored
+ <./IMG/15.jpg>] [9
 
-\pgfpages@shipoutshipoutbox ...physicalpagesizes }
-                                                  \endgroup 
-l.147 \end{frame}
-                 pdfTeX warning (ext4): destination with the same identifier (name{page.7}) has been already used, duplicate ignored
-
-\pgfpages@shipoutshipoutbox ...physicalpagesizes }
-                                                  \endgroup 
-l.147 \end{frame}
-                 
-
- <./IMG/14.png>] [9
-
-pdfTeX warning (ext4): destination with the same identifier (name{Navigation8}) has been already used, duplicate ignored
-
-\pgfpages@shipoutshipoutbox ...physicalpagesizes }
-                                                  \endgroup 
-l.167 \end{frame}
-                 pdfTeX warning (ext4): destination with the same identifier (name{page.8}) has been already used, duplicate ignored
-
-\pgfpages@shipoutshipoutbox ...physicalpagesizes }
-                                                  \endgroup 
-l.167 \end{frame}
-                 
-
- <./IMG/15.jpg>] [10
-
-pdfTeX warning (ext4): destination with the same identifier (name{Navigation9}) has been already used, duplicate ignored
-
-\pgfpages@shipoutshipoutbox ...physicalpagesizes }
-                                                  \endgroup 
-l.176 \end{frame}
-                 pdfTeX warning (ext4): destination with the same identifier (name{page.9}) has been already used, duplicate ignored
-
-\pgfpages@shipoutshipoutbox ...physicalpagesizes }
-                                                  \endgroup 
-l.176 \end{frame}
-                 
+] [10
 
 ] [11
 
-pdfTeX warning (ext4): destination with the same identifier (name{Navigation10}) has been already used, duplicate ignored
-
-\pgfpages@shipoutshipoutbox ...physicalpagesizes }
-                                                  \endgroup 
-l.189   \end{frame}
-                   pdfTeX warning (ext4): destination with the same identifier (name{page.10}) has been already used, duplicate ignored
-
-\pgfpages@shipoutshipoutbox ...physicalpagesizes }
-                                                  \endgroup 
-l.189   \end{frame}
-                   
-
 ] [12
-
-pdfTeX warning (ext4): destination with the same identifier (name{Navigation11}) has been already used, duplicate ignored
-
-\pgfpages@shipoutshipoutbox ...physicalpagesizes }
-                                                  \endgroup 
-l.198 \end{frame}
-                 pdfTeX warning (ext4): destination with the same identifier (name{page.11}) has been already used, duplicate ignored
-
-\pgfpages@shipoutshipoutbox ...physicalpagesizes }
-                                                  \endgroup 
-l.198 \end{frame}
-                 
 
 ]
 LaTeX Font Info:    Trying to load font information for T1+cmtt on input line 211.
@@ -938,18 +781,6 @@ Overfull \hbox (4.32631pt too wide) in paragraph at lines 211--211
 
 [13
 
-pdfTeX warning (ext4): destination with the same identifier (name{Navigation12}) has been already used, duplicate ignored
-
-\pgfpages@shipoutshipoutbox ...physicalpagesizes }
-                                                  \endgroup 
-l.211 \end{frame}
-                 pdfTeX warning (ext4): destination with the same identifier (name{page.12}) has been already used, duplicate ignored
-
-\pgfpages@shipoutshipoutbox ...physicalpagesizes }
-                                                  \endgroup 
-l.211 \end{frame}
-                 
-
 ]
 \tf@nav=\write6
 \openout6 = `presentation.nav'.
@@ -960,37 +791,23 @@ l.211 \end{frame}
 \tf@snm=\write8
 \openout8 = `presentation.snm'.
 
- [14
-
-pdfTeX warning (ext4): destination with the same identifier (name{Navigation13}) has been already used, duplicate ignored
-
-\pgfpages@shipoutshipoutbox ...physicalpagesizes }
-                                                  \endgroup 
-l.213 \end{document}
-                    pdfTeX warning (ext4): destination with the same identifier (name{page.13}) has been already used, duplicate ignored
-
-\pgfpages@shipoutshipoutbox ...physicalpagesizes }
-                                                  \endgroup 
-l.213 \end{document}
-                    
-
-] (./presentation.aux)
+ (./presentation.aux)
 Package rerunfilecheck Info: File `presentation.out' has not changed.
 (rerunfilecheck)             Checksum: D41D8CD98F00B204E9800998ECF8427E;0.
  ) 
 Here is how much of TeX's memory you used:
- 23658 strings out of 478287
- 463813 string characters out of 5849289
- 720470 words of memory out of 5000000
- 41331 multiletter control sequences out of 15000+600000
+ 23353 strings out of 478287
+ 456117 string characters out of 5849289
+ 703024 words of memory out of 5000000
+ 41032 multiletter control sequences out of 15000+600000
  483989 words of font info for 61 fonts, out of 8000000 for 9000
  1141 hyphenation exceptions out of 8191
- 128i,15n,122p,442b,635s stack positions out of 5000i,500n,10000p,200000b,80000s
-{/usr/share/texmf/fonts/enc/dvips/cm-super/cm-super-t1.enc}</usr/share/texmf/fonts/type1/public/cm-super/sfsi0900.pfb></usr/share/texmf/fonts/type1/public/cm-super/sfsi1000.pfb></usr/share/texmf/fonts/type1/public/cm-super/sfss0600.pfb></usr/share/texmf/fonts/type1/public/cm-super/sfss0800.pfb></usr/share/texmf/fonts/type1/public/cm-super/sfss0900.pfb></usr/share/texmf/fonts/type1/public/cm-super/sfss1000.pfb></usr/share/texmf/fonts/type1/public/cm-super/sfss1095.pfb></usr/share/texmf/fonts/type1/public/cm-super/sfss1440.pfb></usr/share/texmf/fonts/type1/public/cm-super/sfsx1095.pfb></usr/share/texmf/fonts/type1/public/cm-super/sftt0900.pfb>
-Output written on presentation.pdf (13 pages, 737380 bytes).
+ 128i,15n,122p,442b,622s stack positions out of 5000i,500n,10000p,200000b,80000s
+{/usr/share/texmf/fonts/enc/dvips/cm-super/cm-super-t1.enc}</usr/share/texmf/fonts/type1/public/cm-super/sfsi0900.pfb></usr/share/texmf/fonts/type1/public/cm-super/sfsi1000.pfb></usr/share/texmf/fonts/type1/public/cm-super/sfss0600.pfb></usr/share/texmf/fonts/type1/public/cm-super/sfss0800.pfb></usr/share/texmf/fonts/type1/public/cm-super/sfss0900.pfb></usr/share/texmf/fonts/type1/public/cm-super/sfss1095.pfb></usr/share/texmf/fonts/type1/public/cm-super/sfss1440.pfb></usr/share/texmf/fonts/type1/public/cm-super/sfsx1095.pfb></usr/share/texmf/fonts/type1/public/cm-super/sftt0900.pfb>
+Output written on presentation.pdf (13 pages, 713392 bytes).
 PDF statistics:
- 482 PDF objects out of 1000 (max. 8388607)
- 408 compressed objects within 5 object streams
+ 456 PDF objects out of 1000 (max. 8388607)
+ 385 compressed objects within 4 object streams
  27 named destinations out of 1000 (max. 500000)
  188 words of extra memory for PDF output out of 10000 (max. 10000000)
 
