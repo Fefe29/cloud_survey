@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.141592653-2.6-1.40.22 (TeX Live 2022/dev/Debian) (preloaded format=pdflatex 2025.2.15)  30 MAR 2025 20:00
+This is pdfTeX, Version 3.141592653-2.6-1.40.22 (TeX Live 2022/dev/Debian) (preloaded format=pdflatex 2025.2.15)  30 MAR 2025 20:01
 entering extended mode
  restricted \write18 enabled.
  file:line:error style messages enabled.
@@ -571,8 +571,7 @@ Package: placeins 2005/04/18  v 2.2
 File: l3backend-pdftex.def 2022-01-12 L3 backend support: PDF output (pdfTeX)
 \l__color_backend_stack_int=\count340
 \l__pdf_internal_box=\box78
-)
-No file presentation.aux.
+) (./presentation.aux)
 \openout1 = `presentation.aux'.
 
 LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 19.
@@ -593,6 +592,7 @@ LaTeX Font Info:    Checking defaults for PD1/pdf/m/n on input line 19.
 LaTeX Font Info:    ... okay on input line 19.
 LaTeX Font Info:    Checking defaults for PU/pdf/m/n on input line 19.
 LaTeX Font Info:    ... okay on input line 19.
+
 *geometry* driver: auto-detecting
 *geometry* detected driver: pdftex
 *geometry* verbose mode - [ preamble ] result:
@@ -659,6 +659,7 @@ Package: gettitlestring 2019/12/15 v1.6 Cleanup title references (HO)
 LaTeX Info: Redefining \ref on input line 19.
 LaTeX Info: Redefining \pageref on input line 19.
 LaTeX Info: Redefining \nameref on input line 19.
+ (./presentation.out) (./presentation.out)
 \@outlinefile=\write5
 \openout5 = `presentation.out'.
 
@@ -802,39 +803,27 @@ l.85 \end{frame}
 <IMG/13.png, id=168, 1443.3925pt x 1558.82375pt>
 File: IMG/13.png Graphic file (type png)
 <use IMG/13.png>
-Package pdftex.def Info: IMG/13.png  used on input line 103.
+Package pdftex.def Info: IMG/13.png  used on input line 102.
 (pdftex.def)             Requested size: 17.1158pt x 18.48149pt.
-
-/home/fefe/home/canada/cloud/survey/Présentation/presentation.tex:103: Undefined control sequence.
-\beamer@doifinframe ...rchitecture} \Floatbarrier 
-                                                  \note { Autonomous vehicle...
-l.103 \end{frame}
-                 
-The control sequence at the end of the top line
-of your error message was never \def'ed. If you have
-misspelled it (e.g., `\hobx'), type `I' and the correct
-spelling (e.g., `I\hbox'). Otherwise just continue,
-and I'll forget about whatever was undefined.
-
-[6
+ [6
 
 pdfTeX warning (ext4): destination with the same identifier (name{Navigation5}) has been already used, duplicate ignored
 
 \pgfpages@shipoutshipoutbox ...physicalpagesizes }
                                                   \endgroup 
-l.103 \end{frame}
+l.102 \end{frame}
                  pdfTeX warning (ext4): destination with the same identifier (name{page.5}) has been already used, duplicate ignored
 
 \pgfpages@shipoutshipoutbox ...physicalpagesizes }
                                                   \endgroup 
-l.103 \end{frame}
+l.102 \end{frame}
                  
 
  <./IMG/12.png>]
 <IMG/14.png, id=195, 843.15pt x 421.575pt>
 File: IMG/14.png Graphic file (type png)
 <use IMG/14.png>
-Package pdftex.def Info: IMG/14.png  used on input line 128.
+Package pdftex.def Info: IMG/14.png  used on input line 127.
 (pdftex.def)             Requested size: 171.14764pt x 85.57431pt.
  [7
 
@@ -842,19 +831,19 @@ pdfTeX warning (ext4): destination with the same identifier (name{Navigation6}) 
 
 \pgfpages@shipoutshipoutbox ...physicalpagesizes }
                                                   \endgroup 
-l.128   \end{frame}
+l.127   \end{frame}
                    pdfTeX warning (ext4): destination with the same identifier (name{page.6}) has been already used, duplicate ignored
 
 \pgfpages@shipoutshipoutbox ...physicalpagesizes }
                                                   \endgroup 
-l.128   \end{frame}
+l.127   \end{frame}
                    
 
  <./IMG/13.png (PNG copy)>]
 <IMG/15.jpg, id=222, 770.88pt x 433.62pt>
 File: IMG/15.jpg Graphic file (type jpg)
 <use IMG/15.jpg>
-Package pdftex.def Info: IMG/15.jpg  used on input line 146.
+Package pdftex.def Info: IMG/15.jpg  used on input line 145.
 (pdftex.def)             Requested size: 205.37926pt x 115.52408pt.
  [8
 
@@ -862,12 +851,12 @@ pdfTeX warning (ext4): destination with the same identifier (name{Navigation7}) 
 
 \pgfpages@shipoutshipoutbox ...physicalpagesizes }
                                                   \endgroup 
-l.146 \end{frame}
+l.145 \end{frame}
                  pdfTeX warning (ext4): destination with the same identifier (name{page.7}) has been already used, duplicate ignored
 
 \pgfpages@shipoutshipoutbox ...physicalpagesizes }
                                                   \endgroup 
-l.146 \end{frame}
+l.145 \end{frame}
                  
 
  <./IMG/14.png>] [9
@@ -876,12 +865,12 @@ pdfTeX warning (ext4): destination with the same identifier (name{Navigation8}) 
 
 \pgfpages@shipoutshipoutbox ...physicalpagesizes }
                                                   \endgroup 
-l.166 \end{frame}
+l.165 \end{frame}
                  pdfTeX warning (ext4): destination with the same identifier (name{page.8}) has been already used, duplicate ignored
 
 \pgfpages@shipoutshipoutbox ...physicalpagesizes }
                                                   \endgroup 
-l.166 \end{frame}
+l.165 \end{frame}
                  
 
  <./IMG/15.jpg>] [10
@@ -890,12 +879,12 @@ pdfTeX warning (ext4): destination with the same identifier (name{Navigation9}) 
 
 \pgfpages@shipoutshipoutbox ...physicalpagesizes }
                                                   \endgroup 
-l.178 \end{frame}
+l.177 \end{frame}
                  pdfTeX warning (ext4): destination with the same identifier (name{page.9}) has been already used, duplicate ignored
 
 \pgfpages@shipoutshipoutbox ...physicalpagesizes }
                                                   \endgroup 
-l.178 \end{frame}
+l.177 \end{frame}
                  
 
 ] [11
@@ -904,12 +893,12 @@ pdfTeX warning (ext4): destination with the same identifier (name{Navigation10})
 
 \pgfpages@shipoutshipoutbox ...physicalpagesizes }
                                                   \endgroup 
-l.192   \end{frame}
+l.191   \end{frame}
                    pdfTeX warning (ext4): destination with the same identifier (name{page.10}) has been already used, duplicate ignored
 
 \pgfpages@shipoutshipoutbox ...physicalpagesizes }
                                                   \endgroup 
-l.192   \end{frame}
+l.191   \end{frame}
                    
 
 ] [12
@@ -918,12 +907,12 @@ pdfTeX warning (ext4): destination with the same identifier (name{Navigation11})
 
 \pgfpages@shipoutshipoutbox ...physicalpagesizes }
                                                   \endgroup 
-l.204 \end{frame}
+l.203 \end{frame}
                  pdfTeX warning (ext4): destination with the same identifier (name{page.11}) has been already used, duplicate ignored
 
 \pgfpages@shipoutshipoutbox ...physicalpagesizes }
                                                   \endgroup 
-l.204 \end{frame}
+l.203 \end{frame}
                  
 
 ] [13
@@ -932,12 +921,12 @@ pdfTeX warning (ext4): destination with the same identifier (name{Navigation12})
 
 \pgfpages@shipoutshipoutbox ...physicalpagesizes }
                                                   \endgroup 
-l.213 \end{frame}
+l.212 \end{frame}
                  pdfTeX warning (ext4): destination with the same identifier (name{page.12}) has been already used, duplicate ignored
 
 \pgfpages@shipoutshipoutbox ...physicalpagesizes }
                                                   \endgroup 
-l.213 \end{frame}
+l.212 \end{frame}
                  
 
 ]
@@ -956,29 +945,23 @@ pdfTeX warning (ext4): destination with the same identifier (name{Navigation13})
 
 \pgfpages@shipoutshipoutbox ...physicalpagesizes }
                                                   \endgroup 
-l.215 \end{document}
+l.214 \end{document}
                     pdfTeX warning (ext4): destination with the same identifier (name{page.13}) has been already used, duplicate ignored
 
 \pgfpages@shipoutshipoutbox ...physicalpagesizes }
                                                   \endgroup 
-l.215 \end{document}
+l.214 \end{document}
                     
 
 ] (./presentation.aux)
-
-Package rerunfilecheck Warning: File `presentation.out' has changed.
-(rerunfilecheck)                Rerun to get outlines right
-(rerunfilecheck)                or use package `bookmark'.
-
-Package rerunfilecheck Info: Checksums for `presentation.out':
-(rerunfilecheck)             Before: <no file>
-(rerunfilecheck)             After:  D41D8CD98F00B204E9800998ECF8427E;0.
+Package rerunfilecheck Info: File `presentation.out' has not changed.
+(rerunfilecheck)             Checksum: D41D8CD98F00B204E9800998ECF8427E;0.
  ) 
 Here is how much of TeX's memory you used:
- 23544 strings out of 478287
- 461031 string characters out of 5849289
- 717357 words of memory out of 5000000
- 41252 multiletter control sequences out of 15000+600000
+ 23549 strings out of 478287
+ 461121 string characters out of 5849289
+ 717471 words of memory out of 5000000
+ 41251 multiletter control sequences out of 15000+600000
  477660 words of font info for 40 fonts, out of 8000000 for 9000
  1141 hyphenation exceptions out of 8191
  128i,15n,122p,442b,635s stack positions out of 5000i,500n,10000p,200000b,80000s
