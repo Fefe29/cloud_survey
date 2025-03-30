@@ -1,4 +1,5 @@
 \documentclass{beamer}
+
 \usetheme{CambridgeUS}
 \setbeamertemplate{footline}[frame number] % Affiche uniquement le numéro de page
 
@@ -6,6 +7,8 @@
 \usepackage[utf8]{inputenc}
 \usepackage{graphicx}
 \usepackage{hyperref}
+\usepackage[T1]{fontenc}
+\usepackage{caption}
 
 \title{Edge Computing: A Decentralized Evolution of the Cloud}
 \author{Galiléa LE MOULLEC (Mun ID: 202415993) \and Félicien MOQUET (Mun ID: 202415994)}
@@ -52,7 +55,14 @@
   \end{itemize}
   \vspace{0.5cm}
   \centering
-  \includegraphics[width=0.6\linewidth]{IMG/6.png} % Optional
+  \begin{figure}
+    \centering
+    \includegraphics[width=0.5\linewidth]{IMG/6.png} % Optional
+  \end{figure}
+
+  \vspace{0.2cm}
+  \small \textit{Figure 1: Edge computing reference architecture}
+
   \note{
     The edge architecture consists of three layers: edge devices, edge nodes, and the cloud. The goal is to shift part of the processing to the edge, while still leveraging cloud capabilities.
   }
@@ -179,13 +189,10 @@
 %--- Slide 12: References---
 \begin{frame}{References}
     \begin{itemize}
-        \item source 1
+        \item \textit{Figure 1}: K. Cao, Y. Liu, G. Meng, et Q. Sun, «An Overview on Edge Computing Research», IEEE Access, vol. 8, p. 85714-85728, 2020, doi: 10.1109/ACCESS.2020.2991734.
         \item source 2
         \item ...
       \end{itemize}
-    \note{
-
-    }
 \end{frame}
 
 \end{document}
