@@ -1,5 +1,13 @@
 # Fdb version 4
-["pdflatex"] 1743297719.15132 "/Users/Galilea/cloud_survey/survey/survey.tex" "survey.pdf" "survey" 1743297720.36216 0
+["bibtex survey"] 1743300558.10632 "survey.aux" "survey.bbl" "survey" 1743300559.4125 0
+  "./references.bib" 1743298635.80451 1616 92856eab70a39a6806835e9b2c28ebc1 ""
+  "/usr/local/texlive/2025basic/texmf-dist/bibtex/bst/llncs/splncs04.bst" 1698954974 32146 aadf770ded437d161532035219ea6f45 ""
+  "survey.aux" 1743300559.24869 13307 3100c21a997c045de18204d28103a787 "pdflatex"
+  (generated)
+  "survey.bbl"
+  "survey.blg"
+  (rewritten before read)
+["pdflatex"] 1743300558.15177 "/Users/Galilea/cloud_survey/survey/survey.tex" "survey.pdf" "survey" 1743300559.41281 0
   "/Users/Galilea/Library/texlive/2025basic/texmf-var/fonts/pk/ljfour/jknappen/ec/ecbx0900.600pk" 1743296774.03835 22480 de2f9b79107b292781f6188459ca2139 ""
   "/Users/Galilea/Library/texlive/2025basic/texmf-var/fonts/pk/ljfour/jknappen/ec/ecbx1000.600pk" 1743296772.21178 25396 2efcded4af5c925597742afed7a0fb74 ""
   "/Users/Galilea/Library/texlive/2025basic/texmf-var/fonts/pk/ljfour/jknappen/ec/ecbx1200.600pk" 1743296772.90408 31928 8c26028eb1803a4b9229bc22bf8a8e4a ""
@@ -9,7 +17,7 @@
   "/Users/Galilea/Library/texlive/2025basic/texmf-var/fonts/pk/ljfour/jknappen/ec/ecti1000.600pk" 1743296770.93888 31872 04f70ce1acaba4d3b7c1a201e8545c16 ""
   "/Users/Galilea/Library/texlive/2025basic/texmf-var/fonts/pk/ljfour/jknappen/ec/ectt0900.600pk" 1743296774.66163 17492 0a2af392dff226abd238c769533ae240 ""
   "/Users/Galilea/Library/texlive/2025basic/texmf-var/fonts/pk/ljfour/jknappen/ec/tcrm0900.600pk" 1743296773.37144 10448 b2eaa0c27445005bf360cfc7a2c147d1 ""
-  "/Users/Galilea/cloud_survey/survey/survey.tex" 1743297718.44386 58064 d18ad3c84e941325529e71e6953a9704 ""
+  "/Users/Galilea/cloud_survey/survey/survey.tex" 1743300556.19692 58335 97f701c8cbb7b130b78e0666218e808f ""
   "/usr/local/texlive/2025basic/texmf-dist/fonts/tfm/jknappen/ec/ecbx0900.tfm" 1136768653 3584 1a7de6c99457381c64abc1a7c545505f ""
   "/usr/local/texlive/2025basic/texmf-dist/fonts/tfm/jknappen/ec/ecbx1000.tfm" 1136768653 3584 2d666ecf6d466d8b007246bc2f94d9da ""
   "/usr/local/texlive/2025basic/texmf-dist/fonts/tfm/jknappen/ec/ecbx1200.tfm" 1136768653 3584 402da0b29eafbad07963b1224b222f18 ""
@@ -39,8 +47,8 @@
   "/usr/local/texlive/2025basic/texmf-dist/tex/latex/placeins/placeins.sty" 1137110565 4087 636308456f60d2b31cbf97867db5708d ""
   "/usr/local/texlive/2025basic/texmf-dist/tex/latex/tools/multicol.sty" 1730496337 32879 f4cfa2226c995da5b04a89ee47abf182 ""
   "/usr/local/texlive/2025basic/texmf-dist/web2c/texmf.cnf" 1739380943 42148 61becc7c670cd061bb319c643c27fdd4 ""
-  "/usr/local/texlive/2025basic/texmf-var/fonts/map/pdftex/updmap/pdftex.map" 1742450610 79187 04b17f8738f833a5a5f7867124477b59 ""
-  "/usr/local/texlive/2025basic/texmf-var/web2c/pdftex/pdflatex.fmt" 1742450538 2663821 ce75595d0cf246ee53b73ca104856ffe ""
+  "/usr/local/texlive/2025basic/texmf-var/fonts/map/pdftex/updmap/pdftex.map" 1743299549 79187 04b17f8738f833a5a5f7867124477b59 ""
+  "/usr/local/texlive/2025basic/texmf-var/web2c/pdftex/pdflatex.fmt" 1743299616 2663840 427d56f4afde4251a21c4d25b2c1c386 ""
   "/usr/local/texlive/2025basic/texmf.cnf" 1741448314 628 81d1ada0f601fb1ffa62f1323192d946 ""
   "IMG/1.png" 1743277462.98337 40176 07885fead531f1cbec5503f26fca67a8 ""
   "IMG/10.png" 1743277462.9847 245517 29acd0a8e013691b69f69ff19006e48e ""
@@ -51,8 +59,9 @@
   "IMG/6.png" 1743277463.00021 196494 0fffd64c65ccfbe2a6d1cf11d78c440d ""
   "IMG/7.png" 1743277463.0015 74774 d07e4cf7446146f87f376437536f9b86 ""
   "IMG/8.png" 1743277463.00246 92945 3a12ad0f968d5f1cf98634c2e916b9a9 ""
-  "survey.aux" 1743297720.26793 13035 3f1c5a665fd715a7d070866cbeebf325 "pdflatex"
-  "survey.tex" 1743297718.44386 58064 d18ad3c84e941325529e71e6953a9704 ""
+  "survey.aux" 1743300559.24869 13307 3100c21a997c045de18204d28103a787 "pdflatex"
+  "survey.bbl" 1743300558.14781 1207 8682ddb8a887b9b051509eef2d569839 "bibtex survey"
+  "survey.tex" 1743300556.19692 58335 97f701c8cbb7b130b78e0666218e808f ""
   (generated)
   "survey.aux"
   "survey.log"
