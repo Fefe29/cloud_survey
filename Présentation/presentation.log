@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.141592653-2.6-1.40.22 (TeX Live 2022/dev/Debian) (preloaded format=pdflatex 2025.2.15)  31 MAR 2025 01:28
+This is pdfTeX, Version 3.141592653-2.6-1.40.22 (TeX Live 2022/dev/Debian) (preloaded format=pdflatex 2025.2.15)  31 MAR 2025 04:01
 entering extended mode
  restricted \write18 enabled.
  file:line:error style messages enabled.
@@ -714,15 +714,19 @@ Package caption Info: End \AtBeginDocument code.
 <IMG/6.png, id=124, 465.74pt x 355.82938pt>
 File: IMG/6.png Graphic file (type png)
 <use IMG/6.png>
-Package pdftex.def Info: IMG/6.png  used on input line 76.
-(pdftex.def)             Requested size: 171.14764pt x 130.75893pt.
- [4
+Package pdftex.def Info: IMG/6.png  used on input line 71.
+(pdftex.def)             Requested size: 239.60567pt x 183.06142pt.
+
+Overfull \vbox (6.53854pt too high) detected at line 71
+ []
+
+[4
 
  <./IMG/6.png>]
 <IMG/12.png, id=154, 1539.7525pt x 831.105pt>
 File: IMG/12.png Graphic file (type png)
 <use IMG/12.png>
-Package pdftex.def Info: IMG/12.png  used on input line 93.
+Package pdftex.def Info: IMG/12.png  used on input line 88.
 (pdftex.def)             Requested size: 205.37926pt x 110.85008pt.
  [5
 
@@ -730,7 +734,7 @@ Package pdftex.def Info: IMG/12.png  used on input line 93.
 <IMG/13.png, id=180, 363.3575pt x 387.4475pt>
 File: IMG/13.png Graphic file (type png)
 <use IMG/13.png>
-Package pdftex.def Info: IMG/13.png  used on input line 107.
+Package pdftex.def Info: IMG/13.png  used on input line 102.
 (pdftex.def)             Requested size: 136.91603pt x 145.99597pt.
  [6
 
@@ -738,7 +742,7 @@ Package pdftex.def Info: IMG/13.png  used on input line 107.
 <IMG/14.png, id=207, 843.15pt x 421.575pt>
 File: IMG/14.png Graphic file (type png)
 <use IMG/14.png>
-Package pdftex.def Info: IMG/14.png  used on input line 132.
+Package pdftex.def Info: IMG/14.png  used on input line 127.
 (pdftex.def)             Requested size: 171.14764pt x 85.57431pt.
  [7
 
@@ -746,7 +750,7 @@ Package pdftex.def Info: IMG/14.png  used on input line 132.
 <IMG/15.jpg, id=235, 770.88pt x 433.62pt>
 File: IMG/15.jpg Graphic file (type jpg)
 <use IMG/15.jpg>
-Package pdftex.def Info: IMG/15.jpg  used on input line 147.
+Package pdftex.def Info: IMG/15.jpg  used on input line 142.
 (pdftex.def)             Requested size: 205.37926pt x 115.52408pt.
  [8
 
@@ -759,23 +763,23 @@ Package pdftex.def Info: IMG/15.jpg  used on input line 147.
 ] [12
 
 ]
-LaTeX Font Info:    Trying to load font information for T1+cmtt on input line 211.
+LaTeX Font Info:    Trying to load font information for T1+cmtt on input line 206.
  (/usr/share/texlive/texmf-dist/tex/latex/base/t1cmtt.fd
 File: t1cmtt.fd 2019/12/16 v2.5j Standard LaTeX font definitions
 )
-LaTeX Font Info:    Trying to load font information for U+msa on input line 211.
+LaTeX Font Info:    Trying to load font information for U+msa on input line 206.
  (/usr/share/texlive/texmf-dist/tex/latex/amsfonts/umsa.fd
 File: umsa.fd 2013/01/14 v3.01 AMS symbols A
 )
-LaTeX Font Info:    Trying to load font information for U+msb on input line 211.
+LaTeX Font Info:    Trying to load font information for U+msb on input line 206.
  (/usr/share/texlive/texmf-dist/tex/latex/amsfonts/umsb.fd
 File: umsb.fd 2013/01/14 v3.01 AMS symbols B
 )
-LaTeX Font Info:    Trying to load font information for OT1+mathkerncmss on input line 211.
+LaTeX Font Info:    Trying to load font information for OT1+mathkerncmss on input line 206.
  (/usr/share/texlive/texmf-dist/tex/latex/sansmathaccent/ot1mathkerncmss.fd
 File: ot1mathkerncmss.fd 2020/01/31 Fontinst v1.933 font definitions for OT1/mathkerncmss.
 )
-Overfull \hbox (4.32631pt too wide) in paragraph at lines 211--211
+Overfull \hbox (4.32631pt too wide) in paragraph at lines 206--206
 \T1/cmtt/m/n/9 edge-[]ai-[]computing-[]advancements-[]driving-[]autonomous-[]vehicle-[]potential/$[]  
  []
 
@@ -804,7 +808,7 @@ Here is how much of TeX's memory you used:
  1141 hyphenation exceptions out of 8191
  128i,15n,122p,442b,622s stack positions out of 5000i,500n,10000p,200000b,80000s
 {/usr/share/texmf/fonts/enc/dvips/cm-super/cm-super-t1.enc}</usr/share/texmf/fonts/type1/public/cm-super/sfsi0900.pfb></usr/share/texmf/fonts/type1/public/cm-super/sfsi1000.pfb></usr/share/texmf/fonts/type1/public/cm-super/sfss0600.pfb></usr/share/texmf/fonts/type1/public/cm-super/sfss0800.pfb></usr/share/texmf/fonts/type1/public/cm-super/sfss0900.pfb></usr/share/texmf/fonts/type1/public/cm-super/sfss1095.pfb></usr/share/texmf/fonts/type1/public/cm-super/sfss1440.pfb></usr/share/texmf/fonts/type1/public/cm-super/sfsx1095.pfb></usr/share/texmf/fonts/type1/public/cm-super/sftt0900.pfb>
-Output written on presentation.pdf (13 pages, 713392 bytes).
+Output written on presentation.pdf (13 pages, 712997 bytes).
 PDF statistics:
  456 PDF objects out of 1000 (max. 8388607)
  385 compressed objects within 4 object streams
