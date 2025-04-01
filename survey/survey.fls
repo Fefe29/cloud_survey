@@ -183,11 +183,6 @@ INPUT ./IMG/6.png
 INPUT IMG/6.png
 INPUT ./IMG/6.png
 INPUT ./IMG/6.png
-INPUT ./IMG/4.png
-INPUT ./IMG/4.png
-INPUT IMG/4.png
-INPUT ./IMG/4.png
-INPUT ./IMG/4.png
 INPUT ./IMG/5.png
 INPUT ./IMG/5.png
 INPUT IMG/5.png
@@ -219,6 +214,11 @@ INPUT ./IMG/7.png
 INPUT IMG/7.png
 INPUT ./IMG/7.png
 INPUT ./IMG/7.png
+INPUT ./IMG/4.png
+INPUT ./IMG/4.png
+INPUT IMG/4.png
+INPUT ./IMG/4.png
+INPUT ./IMG/4.png
 INPUT ./IMG/2.png
 INPUT ./IMG/2.png
 INPUT IMG/2.png
