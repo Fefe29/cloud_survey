@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.141592653-2.6-1.40.22 (TeX Live 2022/dev/Debian) (preloaded format=pdflatex 2025.2.15)  30 MAR 2025 20:19
+This is pdfTeX, Version 3.141592653-2.6-1.40.22 (TeX Live 2022/dev/Debian) (preloaded format=pdflatex 2025.2.15)  1 APR 2025 18:17
 entering extended mode
  restricted \write18 enabled.
  file:line:error style messages enabled.
@@ -362,31 +362,56 @@ Underfull \hbox (badness 10000) in paragraph at lines 12--16
  []
 
 [25]
-Underfull \hbox (badness 10000) in paragraph at lines 24--28
+Underfull \hbox (badness 1259) in paragraph at lines 34--38
+[]\T1/cmr/m/n/9 Li, H., Shou, G., Hu, Y., Guo, Z.: Mo-bile edge com-put-ing: Progress and
+ []
+
+
+Underfull \hbox (badness 2547) in paragraph at lines 34--38
+\T1/cmr/m/n/9 chal-lenges. In: 2016 4th IEEE In-ter-na-tional Con-fer-ence on Mo-bile Cloud
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 40--44
 []\T1/cmr/m/n/9 Sakhdari, J., Zolfaghari, B., Izad-panah, S.: Edge com-put-ing: A
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 24--28
+Underfull \hbox (badness 10000) in paragraph at lines 40--44
 \T1/cmr/m/n/9 sys-tem-atic map-ping study. Con-cur-rency and Com-pu-ta-tion: Prac-
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 24--28
+Underfull \hbox (badness 10000) in paragraph at lines 40--44
 \T1/cmr/m/n/9 tice and Ex-pe-ri-ence \T1/cmr/bx/n/9 35\T1/cmr/m/n/9 (22) (2023). https://doi.org/10.1002/cpe.7741,
+ []
+
+
+Underfull \hbox (badness 1783) in paragraph at lines 50--54
+[]\T1/cmr/m/n/9 Varghese, B., Wang, N., Barb-huiya, S., Kil-patrick, P., Nikolopou-los, D.S.:
+ []
+
+
+Underfull \hbox (badness 2443) in paragraph at lines 50--54
+\T1/cmr/m/n/9 Chal-lenges and op-por-tu-ni-ties in edge com-put-ing. In: 2016 IEEE In-ter-na-
+ []
+
+
+Underfull \hbox (badness 2772) in paragraph at lines 50--54
+\T1/cmr/m/n/9 tional Con-fer-ence on Smart Cloud (Smart-Cloud). pp. 20--26 (Nov 2016).
  []
 
 ) [26] (./survey.aux) ) 
 Here is how much of TeX's memory you used:
- 2101 strings out of 478287
- 31848 string characters out of 5849289
- 332629 words of memory out of 5000000
- 20298 multiletter control sequences out of 15000+600000
+ 2106 strings out of 478287
+ 31933 string characters out of 5849289
+ 332644 words of memory out of 5000000
+ 20303 multiletter control sequences out of 15000+600000
  476758 words of font info for 39 fonts, out of 8000000 for 9000
  1141 hyphenation exceptions out of 8191
  55i,6n,62p,916b,310s stack positions out of 5000i,500n,10000p,200000b,80000s
 {/usr/share/texmf/fonts/enc/dvips/cm-super/cm-super-t1.enc}{/usr/share/texmf/fonts/enc/dvips/cm-super/cm-super-ts1.enc}</usr/share/texmf/fonts/type1/public/cm-super/sfbx0900.pfb></usr/share/texmf/fonts/type1/public/cm-super/sfbx1000.pfb></usr/share/texmf/fonts/type1/public/cm-super/sfbx1200.pfb></usr/share/texmf/fonts/type1/public/cm-super/sfbx1440.pfb></usr/share/texmf/fonts/type1/public/cm-super/sfrm0900.pfb></usr/share/texmf/fonts/type1/public/cm-super/sfrm1000.pfb></usr/share/texmf/fonts/type1/public/cm-super/sfti1000.pfb></usr/share/texmf/fonts/type1/public/cm-super/sftt0900.pfb>
-Output written on survey.pdf (26 pages, 1163006 bytes).
+Output written on survey.pdf (26 pages, 1165062 bytes).
 PDF statistics:
  152 PDF objects out of 1000 (max. 8388607)
  88 compressed objects within 1 object stream
