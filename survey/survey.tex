@@ -235,7 +235,7 @@ One of the critical advantages edge computing brings to IoT is enhanced network 
 
 \noindent\textit{Example:} Surveillance cameras integrated with edge computing technology perform video analytics directly on-site, transmitting only significant event alerts or summaries rather than continuous video streams. This approach reduces bandwidth consumption by over 80\%, greatly increasing network efficiency.
 \noindent\textbf{Case Study: AWS Wavelength}
-AWS Wavelength integrates computing services at the edge of 5G networks, allowing applications such as video streaming and AR/VR to process data locally, reducing latency and network congestion. This technology is particularly beneficial for autonomous vehicles, where real-time object recognition and decision-making are critical.
+AWS Wavelength integrates computing services at the edge of 5G networks, allowing applications such as video streaming and AR/VR to process data locally, reducing latency and network congestion. 
 \subsubsection{Improved Security and Privacy}
 Edge computing significantly enhances security and privacy within IoT environments by reducing data exposure during network transit and allowing sensitive data to remain locally stored and processed. This minimizes the risk of data breaches or unauthorized access, essential for maintaining compliance with data protection regulations.
 
@@ -248,6 +248,7 @@ The decentralized nature of edge computing facilitates greater scalability and r
 \noindent\textit{Example:} Agricultural IoT deployments, such as soil moisture and nutrient sensors, can quickly scale by adding new edge sensors without disrupting the existing system. Each sensor node independently processes data, providing continuous and reliable monitoring and control even if cloud connectivity is intermittently lost.
 \noindent\textbf{Case Study: Cisco Edge Computing in Agriculture}
 Cisco’s edge solutions enable precision agriculture by processing data from IoT sensors in real-time, optimizing irrigation and fertilization strategies. By reducing dependency on cloud connectivity, farms using Cisco’s technology improve yield predictions and resource management while ensuring continuous operation in remote areas.
+
 \subsection{Autonomous Vehicles}
 
 Edge computing plays a fundamental role in enabling the safe and efficient operation of autonomous vehicles by ensuring rapid processing of vast amounts of real-time sensor data. This decentralized computing approach significantly enhances responsiveness, decision-making precision, and operational safety.
@@ -257,25 +258,40 @@ Autonomous vehicles generate substantial volumes of data through numerous onboar
 
 \noindent\textit{Example:} An autonomous car approaching a busy intersection uses edge computing to immediately analyze sensor data and determine the appropriate speed, trajectory, and safe passage through traffic, ensuring precise and instantaneous navigational responses.
 
+\noindent\textbf{Case Study: NVIDIA DRIVE}
+NVIDIA DRIVE enables real-time AI processing within autonomous vehicles, allowing instant decision-making without reliance on cloud connectivity. By leveraging deep learning and computer vision at the edge, NVIDIA DRIVE enhances vehicle safety and operational efficiency, making autonomous driving more reliable in complex environments.
+
 \subsubsection{Collision Avoidance and Safety Systems}
 Safety-critical systems in autonomous vehicles rely heavily on the ultra-low latency processing provided by edge computing. Edge-enabled safety mechanisms swiftly identify potential collision scenarios and execute emergency maneuvers or alerts within milliseconds.
 
 \noindent\textit{Example:} During highway driving, edge computing allows an autonomous vehicle to detect sudden obstacles, such as pedestrians or stalled cars, immediately triggering braking or evasive actions without depending on remote server decisions, thus preventing accidents.
+
+\noindent\textbf{Case Study: Tesla Autopilot and FSD}
+Tesla’s Full Self-Driving (FSD) system relies on edge computing to process camera and sensor data locally within the vehicle, enabling instant collision avoidance and autonomous navigation. By reducing dependency on external servers, Tesla enhances vehicle safety and real-time decision-making capabilities.
 
 \subsubsection{Environmental and Contextual Analysis}
 Edge computing enables continuous real-time analysis of complex environmental conditions around autonomous vehicles. Localized data processing supports accurate perception and contextual awareness, essential for adaptive decision-making in varied driving conditions.
 
 \noindent\textit{Example:} Edge nodes analyze real-time data from weather sensors, road condition sensors, and surrounding vehicle data to dynamically adjust driving strategies (such as traction control or lane-keeping strategies), ensuring optimal vehicle behavior under changing environmental conditions.
 
+\noindent\textbf{Case Study: Waymo's Edge AI}
+Waymo employs edge AI to analyze environmental conditions, including road conditions, traffic signals, and pedestrian movements. This enables precise navigation decisions in real-time, allowing vehicles to adapt their driving behavior dynamically and ensuring safer autonomous driving experiences.
 \subsubsection{Bandwidth Optimization and Data Reduction}
 Due to the high volume of data generated by autonomous vehicles, centralized transmission to cloud servers can quickly saturate network bandwidth. Edge computing significantly reduces this data load by processing and analyzing sensor data locally, sending only essential information to central cloud servers.
 
 \noindent\textit{Example:} Edge computing nodes within vehicles preprocess and compress video streams from onboard cameras, transmitting only critical data such as identified traffic violations or relevant road incidents to central monitoring platforms, thereby significantly decreasing bandwidth usage.
 
+\noindent\textbf{Case Study: AWS Wavelength for Connected Vehicles}
+AWS Wavelength integrates edge computing into 5G networks, enabling connected vehicles to process data locally and only transmit necessary insights. This reduces latency and enhances real-time vehicle communication for navigation and safety applications.
+
+
 \subsubsection{Enhanced Reliability and Redundancy}
 The decentralized nature of edge computing provides higher reliability and redundancy in autonomous vehicle systems. Local data processing reduces dependency on remote servers, ensuring continuous operation and maintaining vehicle safety even during network outages or data center failures.
 
 \noindent\textit{Example:} In rural or remote driving scenarios where internet connectivity might be unreliable or intermittent, onboard edge computing ensures uninterrupted operational decision-making and navigation capabilities, maintaining vehicle safety and performance without dependence on continuous external connectivity.
+
+\noindent\textbf{Case Study: Mobileye's Edge Vision Processing}
+Mobileye integrates edge computing to process vision-based data locally, ensuring autonomous vehicles maintain real-time decision-making capabilities even in areas with poor network connectivity. This enhances reliability and safety, especially in remote or less-connected environments.
 
 \subsection{Smart Cities and Intelligent Infrastructure}
 
@@ -286,10 +302,16 @@ Edge computing allows local analysis of data from traffic sensors, cameras, and 
 
 \noindent\textit{Example:} Traffic lights equipped with edge computing analyze real-time traffic flow data at intersections, dynamically adjusting signal timings to minimize congestion, reducing waiting time by up to 30\%, and significantly improving overall urban mobility.
 
+\noindent\textbf{Case Study: Siemens Smart Traffic Solutions}
+Siemens employs edge computing in smart traffic management systems to optimize signal control and enhance urban mobility. By leveraging AI-driven analytics at the edge, Siemens solutions reduce congestion and improve traffic flow efficiency in major cities.
+
 \subsubsection{Public Safety and Surveillance}
 Edge computing enhances the effectiveness of urban surveillance systems by processing video feeds and sensor data locally, enabling rapid detection and response to incidents. Localized analysis ensures immediate recognition of potential threats or emergencies, enhancing public safety and responsiveness.
 
 \noindent\textit{Example:} Surveillance cameras integrated with edge computing detect suspicious behavior (such as loitering, theft, or unauthorized access) instantly. Alerts are promptly sent to authorities, significantly reducing incident response times and improving city security.
+
+\noindent\textbf{Case Study: Cisco Kinetic for Smart Cities}
+Cisco Kinetic uses edge computing for smart city surveillance, analyzing real-time data from cameras and sensors to detect incidents instantly. This enables rapid response and improves urban security through intelligent threat detection.
 
 \subsubsection{Resource Optimization and Management}
 Edge computing supports smart city initiatives aimed at efficient resource utilization. Localized data processing enables dynamic management and distribution of resources such as energy, water, and waste management, leading to more sustainable and cost-effective urban operations.
@@ -322,6 +344,9 @@ Edge computing revolutionizes industrial and manufacturing sectors by enabling r
 Edge computing provides real-time analytics capabilities that empower predictive maintenance practices. Local processing of sensor data enables immediate detection of equipment anomalies and early identification of potential failures, thereby reducing unscheduled downtime and maintenance costs.
 
 \noindent\textit{Example:} In a manufacturing plant, edge devices continuously monitor the vibrations, temperature, and sound levels of industrial equipment. When anomalies are detected locally, alerts are immediately generated to perform maintenance proactively, reducing downtime by up to 50\% compared to traditional reactive methods.
+
+\noindent\textbf{Case Study: Siemens MindSphere}
+Siemens MindSphere leverages edge computing for industrial automation, predictive maintenance, and real-time data analytics. It enables manufacturers to process data locally, reducing downtime and optimizing production efficiency.
 
 \subsubsection{Real-Time Data Analytics}
 By enabling local data analytics directly at production sites, edge computing significantly enhances decision-making capabilities in industrial environments. Real-time insights from data streams allow manufacturers to rapidly adjust processes, optimize performance, and improve product quality.
@@ -357,6 +382,9 @@ Edge computing significantly enhances healthcare services and telemedicine by en
 Edge computing facilitates continuous, real-time monitoring of patient health data through medical IoT devices and wearable sensors. Local processing of vital health information ensures immediate detection of critical conditions, significantly reducing response times and potentially saving lives.
 
 \noindent\textit{Example:} Wearable health monitoring devices, such as cardiac monitors, utilize edge computing to locally analyze patient data (e.g., heart rate, ECG signals). Immediate alerts are triggered if abnormal patterns or critical conditions such as arrhythmias are detected, enabling rapid interventions and enhancing patient safety.
+
+\noindent\textbf{Case Study: GE Healthcare Edge AI}
+GE Healthcare utilizes edge computing for real-time patient monitoring and diagnostics. By processing medical data locally, healthcare providers can receive instant insights, improving patient care and reducing treatment delays.
 
 \subsubsection{Rapid and Accurate Diagnostics}
 The decentralized nature of edge computing allows diagnostic procedures to be executed swiftly and locally, considerably reducing the time required for analysis and results. This capability is particularly advantageous in telemedicine scenarios, rural healthcare facilities, and emergency situations where immediate diagnosis is crucial.

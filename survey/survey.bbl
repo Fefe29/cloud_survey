@@ -4,52 +4,30 @@
 \providecommand{\doi}[1]{https://doi.org/#1}
 
 \bibitem{acm2023edge}
-Edge-computing-driven internet of things: A survey. ACM Computing Surveys
-  \textbf{55}(8) (2023). \doi{10.1145/3555308},
-  \url{https://dl.acm.org/doi/abs/10.1145/3555308}
+Edge-computing-driven internet of things: A survey. ACM Computing Surveys  \textbf{55}(8) (2023). \doi{10.1145/3555308}, \url{https://dl.acm.org/doi/abs/10.1145/3555308}
 
 \bibitem{aazam2019edge}
-Aazam, M., Zeadally, S., Harras, K.A.: Edge computing: A survey. Future
-  Generation Computer Systems  \textbf{97},  219--235 (2019).
-  \doi{10.1016/j.future.2019.02.017},
-  \url{https://www.sciencedirect.com/science/article/abs/pii/S0167739X18319903}
+Aazam, M., Zeadally, S., Harras, K.A.: Edge computing: A survey. Future Generation Computer Systems  \textbf{97},  219--235 (2019). \doi{10.1016/j.future.2019.02.017}, \url{https://www.sciencedirect.com/science/article/abs/pii/S0167739X18319903}
 
 \bibitem{cao2020overview}
-Cao, K., Liu, Y., Meng, G., Sun, Q.: An overview on edge computing research.
-  IEEE Access  \textbf{8},  85714--85728 (2020).
-  \doi{10.1109/ACCESS.2020.2991734}
+Cao, K., Liu, Y., Meng, G., Sun, Q.: An overview on edge computing research. IEEE Access  \textbf{8},  85714--85728 (2020). \doi{10.1109/ACCESS.2020.2991734}
 
 \bibitem{capra2019hardware}
-Capra, M., Peloso, R., Masera, G., Roch, M.R., Martina, M.: Edge computing: A
-  survey on the hardware requirements in the internet of things world. Future
-  Internet  \textbf{11}(4) (2019). \doi{10.3390/fi11040100},
-  \url{https://www.mdpi.com/1999-5903/11/4/100}
+Capra, M., Peloso, R., Masera, G., Roch, M.R., Martina, M.: Edge computing: A survey on the hardware requirements in the internet of things world. Future Internet  \textbf{11}(4) (2019). \doi{10.3390/fi11040100}, \url{https://www.mdpi.com/1999-5903/11/4/100}
 
 \bibitem{khan2019edge}
-Khan, W.Z., Ahmed, E., Hakak, S., Yaqoob, I., Ahmed, A.: Edge computing: A
-  survey. Future Generation Computer Systems  \textbf{97},  219--235 (Aug
-  2019). \doi{10.1016/j.future.2019.02.050}
+Khan, W.Z., Ahmed, E., Hakak, S., Yaqoob, I., Ahmed, A.: Edge computing: A survey. Future Generation Computer Systems  \textbf{97},  219--235 (Aug 2019). \doi{10.1016/j.future.2019.02.050}
 
 \bibitem{li2016mobile}
-Li, H., Shou, G., Hu, Y., Guo, Z.: Mobile edge computing: Progress and
-  challenges. In: 2016 4th IEEE International Conference on Mobile Cloud
-  Computing, Services, and Engineering (MobileCloud). pp. 83--84 (Mar 2016).
-  \doi{10.1109/MobileCloud.2016.16}
+Li, H., Shou, G., Hu, Y., Guo, Z.: Mobile edge computing: Progress and challenges. In: 2016 4th IEEE International Conference on Mobile Cloud Computing, Services, and Engineering (MobileCloud). pp. 83--84 (Mar 2016). \doi{10.1109/MobileCloud.2016.16}
 
 \bibitem{sakhdari2023systematic}
-Sakhdari, J., Zolfaghari, B., Izadpanah, S.: Edge computing: A systematic
-  mapping study. Concurrency and Computation: Practice and Experience
-  \textbf{35}(22) (2023). \doi{10.1002/cpe.7741},
-  \url{https://onlinelibrary.wiley.com/doi/abs/10.1002/cpe.7741}
+Sakhdari, J., Zolfaghari, B., Izadpanah, S.: Edge computing: A systematic mapping study. Concurrency and Computation: Practice and Experience  \textbf{35}(22) (2023). \doi{10.1002/cpe.7741}, \url{https://onlinelibrary.wiley.com/doi/abs/10.1002/cpe.7741}
 
 \bibitem{shi2016promise}
-Shi, W., Dustdar, S.: The promise of edge computing. Computer  \textbf{49}(5),
-  78--81 (May 2016). \doi{10.1109/MC.2016.145}
+Shi, W., Dustdar, S.: The promise of edge computing. Computer  \textbf{49}(5),  78--81 (May 2016). \doi{10.1109/MC.2016.145}
 
 \bibitem{varghese2016challenges}
-Varghese, B., Wang, N., Barbhuiya, S., Kilpatrick, P., Nikolopoulos, D.S.:
-  Challenges and opportunities in edge computing. In: 2016 IEEE International
-  Conference on Smart Cloud (SmartCloud). pp. 20--26 (Nov 2016).
-  \doi{10.1109/SmartCloud.2016.18}
+Varghese, B., Wang, N., Barbhuiya, S., Kilpatrick, P., Nikolopoulos, D.S.: Challenges and opportunities in edge computing. In: 2016 IEEE International Conference on Smart Cloud (SmartCloud). pp. 20--26 (Nov 2016). \doi{10.1109/SmartCloud.2016.18}
 
 \end{thebibliography}
