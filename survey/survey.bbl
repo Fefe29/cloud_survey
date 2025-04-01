@@ -4,26 +4,15 @@
 \providecommand{\doi}[1]{https://doi.org/#1}
 
 \bibitem{acm2023edge}
-Edge-computing-driven internet of things: A survey. ACM Computing Surveys
-  \textbf{55}(8) (2023). \doi{10.1145/3555308},
-  \url{https://dl.acm.org/doi/abs/10.1145/3555308}
+Edge-computing-driven internet of things: A survey. ACM Computing Surveys  \textbf{55}(8) (2023). \doi{10.1145/3555308}, \url{https://dl.acm.org/doi/abs/10.1145/3555308}
 
 \bibitem{aazam2019edge}
-Aazam, M., Zeadally, S., Harras, K.A.: Edge computing: A survey. Future
-  Generation Computer Systems  \textbf{97},  219--235 (2019).
-  \doi{10.1016/j.future.2019.02.017},
-  \url{https://www.sciencedirect.com/science/article/abs/pii/S0167739X18319903}
+Aazam, M., Zeadally, S., Harras, K.A.: Edge computing: A survey. Future Generation Computer Systems  \textbf{97},  219--235 (2019). \doi{10.1016/j.future.2019.02.017}, \url{https://www.sciencedirect.com/science/article/abs/pii/S0167739X18319903}
 
 \bibitem{capra2019hardware}
-Capra, M., Peloso, R., Masera, G., Roch, M.R., Martina, M.: Edge computing: A
-  survey on the hardware requirements in the internet of things world. Future
-  Internet  \textbf{11}(4) (2019). \doi{10.3390/fi11040100},
-  \url{https://www.mdpi.com/1999-5903/11/4/100}
+Capra, M., Peloso, R., Masera, G., Roch, M.R., Martina, M.: Edge computing: A survey on the hardware requirements in the internet of things world. Future Internet  \textbf{11}(4) (2019). \doi{10.3390/fi11040100}, \url{https://www.mdpi.com/1999-5903/11/4/100}
 
 \bibitem{sakhdari2023systematic}
-Sakhdari, J., Zolfaghari, B., Izadpanah, S.: Edge computing: A systematic
-  mapping study. Concurrency and Computation: Practice and Experience
-  \textbf{35}(22) (2023). \doi{10.1002/cpe.7741},
-  \url{https://onlinelibrary.wiley.com/doi/abs/10.1002/cpe.7741}
+Sakhdari, J., Zolfaghari, B., Izadpanah, S.: Edge computing: A systematic mapping study. Concurrency and Computation: Practice and Experience  \textbf{35}(22) (2023). \doi{10.1002/cpe.7741}, \url{https://onlinelibrary.wiley.com/doi/abs/10.1002/cpe.7741}
 
 \end{thebibliography}
