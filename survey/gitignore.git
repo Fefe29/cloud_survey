@@ -1,0 +1,9 @@
+# Ignorer tout dans le dossier survey
+*
+
+# Ne pas ignorer le dossier IMG et son contenu
+!IMG/
+!IMG/**
+
+# Ne pas ignorer le fichier survey.tex
+!survey.tex
