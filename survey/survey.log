@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.141592653-2.6-1.40.22 (TeX Live 2022/dev/Debian) (preloaded format=pdflatex 2025.2.15)  1 APR 2025 18:32
+This is pdfTeX, Version 3.141592653-2.6-1.40.22 (TeX Live 2022/dev/Debian) (preloaded format=pdflatex 2025.2.15)  1 APR 2025 18:40
 entering extended mode
  restricted \write18 enabled.
  file:line:error style messages enabled.
@@ -218,17 +218,17 @@ File: t1cmtt.fd 2019/12/16 v2.5j Standard LaTeX font definitions
 ) [1
 
 {/var/lib/texmf/fonts/map/pdftex/updmap/pdftex.map}]
-<IMG/6.png, id=14, 481.8pt x 379.91937pt>
+<IMG/6.png, id=14, 387.4475pt x 291.0875pt>
 File: IMG/6.png Graphic file (type png)
 <use IMG/6.png>
 Package pdftex.def Info: IMG/6.png  used on input line 46.
-(pdftex.def)             Requested size: 295.05711pt x 232.6722pt.
+(pdftex.def)             Requested size: 295.05711pt x 221.67738pt.
  [2 <./IMG/6.png>]
-<IMG/4.png, id=20, 416.05438pt x 212.795pt>
+<IMG/4.png, id=20, 416.05438pt x 185.69376pt>
 File: IMG/4.png Graphic file (type png)
 <use IMG/4.png>
 Package pdftex.def Info: IMG/4.png  used on input line 75.
-(pdftex.def)             Requested size: 277.69987pt x 142.03938pt.
+(pdftex.def)             Requested size: 277.69987pt x 123.94948pt.
  [3]
 <IMG/5.png, id=24, 342.27875pt x 131.49126pt>
 File: IMG/5.png Graphic file (type png)
@@ -236,22 +236,22 @@ File: IMG/5.png Graphic file (type png)
 Package pdftex.def Info: IMG/5.png  used on input line 101.
 (pdftex.def)             Requested size: 242.98541pt x 93.3494pt.
  [4 <./IMG/4.png>] [5 <./IMG/5.png>]
-<IMG/10.png, id=33, 359.84438pt x 256.45813pt>
+<IMG/10.png, id=33, 355.3275pt x 231.86626pt>
 File: IMG/10.png Graphic file (type png)
 <use IMG/10.png>
 Package pdftex.def Info: IMG/10.png  used on input line 134.
-(pdftex.def)             Requested size: 295.05711pt x 210.30092pt.
+(pdftex.def)             Requested size: 295.05711pt x 192.54445pt.
 
 Overfull \hbox (25.56323pt too wide) in paragraph at lines 142--143
 \T1/cmr/m/n/10 hin-der its per-for-mance in emerg-ing do-mains such as au-tonomous sys-tems, telemedicine,
  []
 
 [6 <./IMG/10.png>]
-<IMG/8.png, id=38, 393.47pt x 281.55188pt>
+<IMG/8.png, id=38, 381.425pt x 230.8625pt>
 File: IMG/8.png Graphic file (type png)
 <use IMG/8.png>
 Package pdftex.def Info: IMG/8.png  used on input line 153.
-(pdftex.def)             Requested size: 260.34265pt x 186.28879pt.
+(pdftex.def)             Requested size: 260.34265pt x 157.57974pt.
  [7 <./IMG/8.png>] [8] [9]
 <IMG/3.png, id=51, 608.2725pt x 233.87375pt>
 File: IMG/3.png Graphic file (type png)
@@ -264,11 +264,11 @@ File: IMG/1.png Graphic file (type png)
 Package pdftex.def Info: IMG/1.png  used on input line 224.
 (pdftex.def)             Requested size: 260.34265pt x 221.44664pt.
  [10 <./IMG/3.png>] [11 <./IMG/1.png>] [12] [13] [14]
-<IMG/7.png, id=71, 400.49625pt x 289.58188pt>
+<IMG/7.png, id=71, 393.47pt x 254.45062pt>
 File: IMG/7.png Graphic file (type png)
 <use IMG/7.png>
 Package pdftex.def Info: IMG/7.png  used on input line 323.
-(pdftex.def)             Requested size: 277.69987pt x 200.8059pt.
+(pdftex.def)             Requested size: 277.69987pt x 179.58183pt.
  [15] [16 <./IMG/7.png>]
 Overfull \hbox (5.45703pt too wide) in paragraph at lines 361--362
 \T1/cmr/m/n/10 tribut-ing to im-proved pa-tient out-comes, op-ti-mized health-care de-liv-ery, and height-
@@ -405,7 +405,7 @@ Here is how much of TeX's memory you used:
  1141 hyphenation exceptions out of 8191
  55i,7n,62p,916b,310s stack positions out of 5000i,500n,10000p,200000b,80000s
 {/usr/share/texmf/fonts/enc/dvips/cm-super/cm-super-t1.enc}{/usr/share/texmf/fonts/enc/dvips/cm-super/cm-super-ts1.enc}</usr/share/texmf/fonts/type1/public/cm-super/sfbx0900.pfb></usr/share/texmf/fonts/type1/public/cm-super/sfbx1000.pfb></usr/share/texmf/fonts/type1/public/cm-super/sfbx1200.pfb></usr/share/texmf/fonts/type1/public/cm-super/sfbx1440.pfb></usr/share/texmf/fonts/type1/public/cm-super/sfrm0900.pfb></usr/share/texmf/fonts/type1/public/cm-super/sfrm1000.pfb></usr/share/texmf/fonts/type1/public/cm-super/sfti1000.pfb></usr/share/texmf/fonts/type1/public/cm-super/sftt0900.pfb>
-Output written on survey.pdf (26 pages, 1157015 bytes).
+Output written on survey.pdf (26 pages, 1125708 bytes).
 PDF statistics:
  152 PDF objects out of 1000 (max. 8388607)
  88 compressed objects within 1 object stream
