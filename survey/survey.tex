@@ -53,7 +53,9 @@ Edge computing operates on decentralization, proximity, and real-time responsive
 The general architecture of edge computing typically consists of three main hierarchical layers designed to efficiently manage data generation, processing, and analysis tasks. These layers are interconnected and cooperate closely to ensure optimal performance and responsiveness.
 
 
-\subsubsection{Site Plant (Data Generation Layer)}
+\subsubsection{Site Plant (Data Generation Layer)}\
+
+\vspace{0.2cm}
 Edge devices represent the initial stage in the architecture, composed mainly of endpoints such as IoT sensors, actuators, smartphones, surveillance cameras, drones, wearable devices, and autonomous vehicles. These devices continuously generate data through their embedded sensors and are capable of basic local data preprocessing or filtering tasks. Their primary functions include:
 \begin{itemize}
     \item Capturing real-time data from the physical environment.
@@ -61,8 +63,10 @@ Edge devices represent the initial stage in the architecture, composed mainly of
     \item Initial data validation and basic local decisions.
 \end{itemize}
 
-\subsubsection{Edge Layer (Local Processing Layer)}
-Edge nodes are intermediate computing points located near edge devices, enabling localized data processing, efficient resource utilization, and reduced latency. These nodes bridge the gap between edge devices and cloud infrastructure, ensuring seamless data flow and intelligent decision-making. Positioned strategically close to data sources, they handle tasks such as advanced data filtering, aggregation, real-time analytics, and temporary data storage, reducing the need for constant cloud communication and minimizing network bandwidth consumption. Additionally, they serve as intermediaries that manage interactions between edge devices and cloud services, optimizing overall system performance.  
+\subsubsection{Edge Layer (Local Processing Layer)}\
+\vspace{0.2cm}
+
+Edge nodes are intermediate computing points located near edge devices, enabling localized data processing, efficient resource utilization, and reduced latency. These nodes bridge the gap between edge devices and cloud infrastructure, ensuring seamless data flow and intelligent decision-making. Positioned strategically close to data sources, they handle tasks such as advanced data filtering, aggregation, real-time analytics, and temporary data storage, reducing the need for constant cloud communication and minimizing network bandwidth consumption. Additionally, they serve as intermediaries that manage interactions between edge devices and cloud services, optimizing overall system performance. 
 
 Several key components define the edge node layer. The \textbf{edge gateway} plays a crucial role in facilitating communication between edge devices and the cloud by handling protocol translation, network security, and initial data processing. It aggregates data from multiple sources, filtering redundant information and ensuring efficient transmission. Complementing this, the \textbf{edge controller} is responsible for real-time monitoring and automation, overseeing critical device-level operations such as industrial control systems, robotics, and smart infrastructure. By executing predefined logic, edge controllers enable immediate responses without relying on centralized processing.  
 
@@ -71,7 +75,9 @@ For more demanding computational tasks, the \textbf{edge cloud} functions as a l
 By leveraging these interconnected components, the local processing layer significantly enhances computational efficiency, ensures real-time analytics, and strengthens security by managing sensitive data closer to its origin.
 
 
-\subsubsection{Cloud Layer (Centralized Processing Layer)}
+\subsubsection{Cloud Layer (Centralized Processing Layer)}\
+
+\vspace{0.2cm}
 Despite the strong local processing capabilities provided by edge nodes, some complex and resource-intensive analytical tasks still require central cloud resources. The hybrid architecture integrates edge nodes with traditional centralized cloud services to perform:
 \begin{itemize}
     \item Deep learning, big data analytics, and extensive computational tasks.
